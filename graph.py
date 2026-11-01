@@ -8,7 +8,7 @@ for u, v, key, data in G.edges(keys=True, data=True):
 
     #смотрим колво полос
     lanes = data.get('lanes', 1)  #по умолчанию 1 полоса
-    if isinstance(lanes, list):
+    if isinstance(lanes, list): #если на одной дороге полосы меняются берем первое значние
         lanes = int(lanes[0])
     elif isinstance(lanes, str):
         lanes = int(lanes)
