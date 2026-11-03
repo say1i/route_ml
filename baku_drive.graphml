@@ -4349,8 +4349,8 @@
       <data key="d6">4</data>
     </node>
     <node id="1421786231">
-      <data key="d4">40.4138491</data>
-      <data key="d5">49.9406821</data>
+      <data key="d4">40.4137926</data>
+      <data key="d5">49.9407098</data>
       <data key="d6">4</data>
     </node>
     <node id="1421786238">
@@ -4376,7 +4376,6 @@
     <node id="1421797643">
       <data key="d4">40.4137245</data>
       <data key="d5">49.9402516</data>
-      <data key="d7">traffic_signals</data>
       <data key="d6">4</data>
     </node>
     <node id="1421797647">
@@ -4621,9 +4620,8 @@
       <data key="d6">3</data>
     </node>
     <node id="1430720257">
-      <data key="d4">40.4160681</data>
-      <data key="d5">49.9571887</data>
-      <data key="d7">traffic_signals</data>
+      <data key="d4">40.4160711</data>
+      <data key="d5">49.9571926</data>
       <data key="d6">3</data>
     </node>
     <node id="1430720262">
@@ -4632,9 +4630,8 @@
       <data key="d6">3</data>
     </node>
     <node id="1430720271">
-      <data key="d4">40.4161766</data>
-      <data key="d5">49.9571111</data>
-      <data key="d7">traffic_signals</data>
+      <data key="d4">40.4161624</data>
+      <data key="d5">49.9571258</data>
       <data key="d6">3</data>
     </node>
     <node id="1430720274">
@@ -6197,15 +6194,9 @@
       <data key="d6">4</data>
     </node>
     <node id="1509704849">
-      <data key="d4">40.4138146</data>
-      <data key="d5">49.9405145</data>
+      <data key="d4">40.4138269</data>
+      <data key="d5">49.9405288</data>
       <data key="d6">4</data>
-    </node>
-    <node id="1509704851">
-      <data key="d4">40.413492</data>
-      <data key="d5">49.9409289</data>
-      <data key="d7">traffic_signals</data>
-      <data key="d6">3</data>
     </node>
     <node id="1509704852">
       <data key="d4">40.4169344</data>
@@ -56321,6 +56312,12 @@
       <data key="d5">49.8017496</data>
       <data key="d6">1</data>
     </node>
+    <node id="13762192469">
+      <data key="d4">40.4135508</data>
+      <data key="d5">49.9408936</data>
+      <data key="d7">crossing</data>
+      <data key="d6">3</data>
+    </node>
     <node id="13765447263">
       <data key="d4">40.387167</data>
       <data key="d5">49.9531308</data>
@@ -57024,7 +57021,7 @@
     <edge source="276371182" target="9813148803" id="0">
       <data key="d8">[290633714, 1415085014]</data>
       <data key="d9">trunk</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d10">60</data>
       <data key="d11">Zərifə Əliyeva küçəsi</data>
       <data key="d12">True</data>
@@ -57372,7 +57369,7 @@
       <data key="d15">LINESTRING (49.841569 40.3802795, 49.8421305 40.3804086, 49.8425522 40.3805058, 49.8430622 40.3806326, 49.8435056 40.380746, 49.8435737 40.380763, 49.8436741 40.3807893)</data>
     </edge>
     <edge source="276374004" target="276371598" id="0">
-      <data key="d8">[1415063176, 1415063179, 1415063175]</data>
+      <data key="d8">[1570371146, 1415063179, 1415063175]</data>
       <data key="d9">primary</data>
       <data key="d17">3</data>
       <data key="d11">Azadlıq prospekti</data>
@@ -57382,7 +57379,7 @@
       <data key="d15">LINESTRING (49.8497366 40.3750116, 49.8497791 40.3749413, 49.8499062 40.3747236, 49.850067 40.3744719, 49.8501601 40.3743087, 49.8501765 40.3742773, 49.8501917 40.3742537, 49.8502439 40.3741777)</data>
     </edge>
     <edge source="276374004" target="276846862" id="0">
-      <data key="d8">[1415063177, 165695131]</data>
+      <data key="d8">[1570371147, 165695131]</data>
       <data key="d9">residential</data>
       <data key="d17">2</data>
       <data key="d10">60</data>
@@ -57414,14 +57411,14 @@
       <data key="d15">LINESTRING (49.849308 40.3757251, 49.8494151 40.3757601, 49.8497474 40.3758586, 49.849774 40.3758665, 49.849875 40.3758967, 49.8506809 40.3761373, 49.8511296 40.37627, 49.851223 40.3762976)</data>
     </edge>
     <edge source="276374006" target="276374005" id="0">
-      <data key="d8">[1415063168, 1415063172, 179238869]</data>
+      <data key="d8">[1415063168, 1415063172, 179238869, 1566894598]</data>
       <data key="d9">primary</data>
       <data key="d17">3</data>
       <data key="d11">Azadlıq prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">144.7626668392722</data>
-      <data key="d15">LINESTRING (49.8486325 40.3769209, 49.8486761 40.3768383, 49.8492508 40.3758202, 49.849308 40.3757251)</data>
+      <data key="d14">144.76266714800337</data>
+      <data key="d15">LINESTRING (49.8486325 40.3769209, 49.8486761 40.3768383, 49.8487749 40.3766632, 49.8492508 40.3758202, 49.849308 40.3757251)</data>
     </edge>
     <edge source="276374006" target="1490151974" id="0">
       <data key="d8">[1415063170, 179238877]</data>
@@ -58470,7 +58467,7 @@
       <data key="d8">[165508016, 531563047]</data>
       <data key="d9">residential</data>
       <data key="d10">40</data>
-      <data key="d11">['Böyük Qala küçəsi', 'Asəf Zeynallı küçəsi']</data>
+      <data key="d11">['Asəf Zeynallı küçəsi', 'Böyük Qala küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">433.78855518208786</data>
@@ -58547,7 +58544,7 @@
       <data key="d8">[1415326102, 25406575]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
-      <data key="d11">['Abdulla Şaiq küç.', 'Abdulla Şaiq küçəsi']</data>
+      <data key="d11">['Abdulla Şaiq küçəsi', 'Abdulla Şaiq küç.']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">149.81328569657566</data>
@@ -59278,7 +59275,7 @@
     <edge source="277336118" target="276886236" id="0">
       <data key="d8">[476752809, 766787802, 25406100, 1548436662]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d10">60</data>
       <data key="d11">['İstiqlaliyyət küçəsi', 'Azərbaycan prospekti']</data>
       <data key="d12">True</data>
@@ -62502,7 +62499,7 @@
       <data key="d15">LINESTRING (49.8294146 40.3827803, 49.830054 40.3829194, 49.8301931 40.3829498)</data>
     </edge>
     <edge source="632725453" target="1900229028" id="0">
-      <data key="d8">49799946</data>
+      <data key="d8">[1567948901, 1567948902]</data>
       <data key="d9">primary</data>
       <data key="d17">4</data>
       <data key="d11">Cəfər Cabbarlı küçəsi</data>
@@ -63769,14 +63766,6 @@
       <data key="d14">69.54780848404098</data>
       <data key="d15">LINESTRING (49.8012455 40.3441735, 49.8013297 40.3443131, 49.8016351 40.3447235)</data>
     </edge>
-    <edge source="798772473" target="1488873458" id="0">
-      <data key="d8">1006395905</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Tofiq Məmmədov küçəsi</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">118.23768097065032</data>
-    </edge>
     <edge source="798772473" target="798772475" id="0">
       <data key="d8">1548636871</data>
       <data key="d9">tertiary</data>
@@ -63784,6 +63773,15 @@
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">47.38448810003081</data>
+    </edge>
+    <edge source="798772473" target="1488873458" id="0">
+      <data key="d8">[1006395905, 1567073251]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Tofiq Məmmədov küçəsi</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">118.23768104050966</data>
+      <data key="d15">LINESTRING (49.8084313 40.3397934, 49.8078972 40.3392909, 49.8075531 40.3389672)</data>
     </edge>
     <edge source="798772473" target="3636497685" id="0">
       <data key="d8">[1548636883, 1548636884, 1548636885, 1548636886]</data>
@@ -66460,21 +66458,21 @@
       <data key="d14">14.522012742843073</data>
     </edge>
     <edge source="886287536" target="1311714519" id="0">
-      <data key="d8">[1549271584, 1549271585, 1549271586]</data>
+      <data key="d8">[1549271584, 1549271585, 1549271586, 1566571955]</data>
       <data key="d9">secondary</data>
       <data key="d11">Moskva prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">165.60326760728645</data>
-      <data key="d15">LINESTRING (49.8071982 40.4053946, 49.8067131 40.4062378, 49.8066839 40.4062909, 49.8064074 40.4067567)</data>
+      <data key="d14">165.60326762175674</data>
+      <data key="d15">LINESTRING (49.8071982 40.4053946, 49.8067131 40.4062378, 49.8066839 40.4062909, 49.8064477 40.4066888, 49.8064074 40.4067567)</data>
     </edge>
     <edge source="886287800" target="1421687429" id="0">
       <data key="d8">992666817</data>
       <data key="d9">secondary</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">75.69031116533937</data>
-      <data key="d15">LINESTRING (49.8140163 40.4058421, 49.8140745 40.4058799, 49.8141401 40.4059109, 49.8141935 40.4059295, 49.8143145 40.4059645, 49.8146813 40.4060518, 49.8148389 40.4060956)</data>
+      <data key="d14">75.69031225184517</data>
+      <data key="d15">LINESTRING (49.8140163 40.4058421, 49.8140745 40.4058799, 49.8141401 40.4059109, 49.8141935 40.4059295, 49.8143145 40.4059645, 49.8143732 40.4059785, 49.8146813 40.4060518, 49.8148389 40.4060956)</data>
     </edge>
     <edge source="886287800" target="6952556475" id="0">
       <data key="d8">1548177886</data>
@@ -66524,7 +66522,7 @@
     <edge source="886304266" target="7397093935" id="0">
       <data key="d8">[178746193, 370829653]</data>
       <data key="d9">secondary</data>
-      <data key="d11">['Ceyhun Səlimov küçəsi', 'Cəlil Məmmədquluzadə küçəsi']</data>
+      <data key="d11">['Cəlil Məmmədquluzadə küçəsi', 'Ceyhun Səlimov küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">139.01430166533606</data>
@@ -66747,7 +66745,7 @@
       <data key="d15">LINESTRING (49.8336374 40.3911638, 49.8336022 40.3912571, 49.8331908 40.3923484, 49.8330346 40.3927712, 49.8327908 40.3933978, 49.8326919 40.3936647)</data>
     </edge>
     <edge source="1103960486" target="3212063216" id="0">
-      <data key="d8">95163997</data>
+      <data key="d8">[1570328260, 95163997]</data>
       <data key="d9">secondary</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -67050,7 +67048,7 @@
       <data key="d8">[776178242, 1548258236, 1548258237]</data>
       <data key="d9">tertiary</data>
       <data key="d10">60</data>
-      <data key="d11">['Hənifə Ələsgərov küç.', 'Hənifə Ələsgərov küçəsi']</data>
+      <data key="d11">['Hənifə Ələsgərov küçəsi', 'Hənifə Ələsgərov küç.']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">156.69807869254547</data>
@@ -67286,7 +67284,7 @@
       <data key="d15">LINESTRING (49.8476254 40.3827391, 49.8460814 40.3823365, 49.8460407 40.3823259)</data>
     </edge>
     <edge source="1104367784" target="1489408842" id="0">
-      <data key="d8">135318173</data>
+      <data key="d8">1570363439</data>
       <data key="d9">primary</data>
       <data key="d17">4</data>
       <data key="d11">Vaqif prospekti</data>
@@ -67296,7 +67294,7 @@
       <data key="d15">LINESTRING (49.8389483 40.3914353, 49.8379655 40.3912137, 49.8378395 40.3911823, 49.8368723 40.3909647)</data>
     </edge>
     <edge source="1104367784" target="1104367777" id="0">
-      <data key="d8">179233990</data>
+      <data key="d8">1570363440</data>
       <data key="d9">tertiary</data>
       <data key="d17">2</data>
       <data key="d11">Xan Şuşinski küçəsi</data>
@@ -68733,7 +68731,7 @@
       <data key="d15">LINESTRING (49.9657059 40.3950433, 49.9657352 40.3948733, 49.9657688 40.3946842, 49.9657998 40.3945555, 49.9658313 40.3944163, 49.9659319 40.3940122, 49.9659368 40.3939923, 49.9659628 40.3938882, 49.9660671 40.3934677, 49.9661517 40.3931255, 49.966242 40.3927607)</data>
     </edge>
     <edge source="1285921249" target="9786623907" id="0">
-      <data key="d8">1065685061</data>
+      <data key="d8">[1571342368, 1571342369]</data>
       <data key="d9">secondary</data>
       <data key="d11">Babək prospekti</data>
       <data key="d12">True</data>
@@ -68777,7 +68775,7 @@
       <data key="d15">LINESTRING (49.9541905 40.4309249, 49.9543999 40.4308355, 49.9550871 40.4305588, 49.9552277 40.4305037, 49.9553087 40.4304635, 49.9553641 40.4304228, 49.9554005 40.4303786, 49.9561733 40.4293005)</data>
     </edge>
     <edge source="1285921264" target="10059398589" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">[1565368228, 1565368229, 1565368230]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
@@ -69035,7 +69033,7 @@
       <data key="d15">LINESTRING (49.9681331 40.4123386, 49.969952 40.4131049, 49.9700152 40.4131319)</data>
     </edge>
     <edge source="1285926747" target="1430759465" id="0">
-      <data key="d8">1100686130</data>
+      <data key="d8">[1100686130, 1568337899, 1568337900, 1568337898]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Sakit Qocayev küçəsi</data>
       <data key="d12">False</data>
@@ -69191,14 +69189,14 @@
       <data key="d15">LINESTRING (49.955864 40.4332461, 49.956037 40.433476, 49.9561908 40.4336994, 49.9562421 40.4337842, 49.9562845 40.4338551, 49.9563647 40.43402)</data>
     </edge>
     <edge source="1285927032" target="1885271302" id="0">
-      <data key="d8">[1100864780, 1100864781]</data>
+      <data key="d8">[1567278626, 1100864780, 1100864781, 1565771728, 1565272853]</data>
       <data key="d9">secondary</data>
       <data key="d17">4</data>
       <data key="d11">Yavər Əliyev küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">197.9508550590321</data>
-      <data key="d15">LINESTRING (49.955864 40.4332461, 49.9556605 40.4329677, 49.9550963 40.432164, 49.9548215 40.431797, 49.9547449 40.4316831)</data>
+      <data key="d14">197.95085560408563</data>
+      <data key="d15">LINESTRING (49.955864 40.4332461, 49.9556605 40.4329677, 49.9554384 40.4326514, 49.9552963 40.4324489, 49.9550963 40.432164, 49.9548215 40.431797, 49.9547449 40.4316831)</data>
     </edge>
     <edge source="1285927091" target="10012735098" id="0">
       <data key="d8">471193345</data>
@@ -69237,15 +69235,6 @@
       <data key="d14">96.41438852824778</data>
       <data key="d15">LINESTRING (49.9725772 40.3925581, 49.9726211 40.3925337, 49.9726747 40.3925164, 49.9727216 40.3925092, 49.9727873 40.3925011, 49.9736982 40.392476)</data>
     </edge>
-    <edge source="1285935427" target="1661857662" id="0">
-      <data key="d8">191043163</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Əhməd Mehbalıyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">275.827671720692</data>
-      <data key="d15">LINESTRING (49.9725772 40.3925581, 49.972554 40.392593, 49.9725393 40.392643, 49.9725379 40.3927094, 49.9725532 40.3931611, 49.9725914 40.3938739, 49.9726163 40.3943366, 49.9726234 40.3944693, 49.9726535 40.3950315)</data>
-    </edge>
     <edge source="1285935427" target="2022950707" id="0">
       <data key="d8">[1100905784, 1552970261, 1552970263]</data>
       <data key="d9">residential</data>
@@ -69255,6 +69244,15 @@
       <data key="d13">False</data>
       <data key="d14">223.53202540827027</data>
       <data key="d15">LINESTRING (49.9725772 40.3925581, 49.9725372 40.3924985, 49.9725265 40.392476, 49.9725191 40.392451, 49.9725108 40.3923897, 49.9725003 40.3923203, 49.972495 40.3922641, 49.9724774 40.3922343, 49.9724078 40.3922017, 49.9723407 40.3921956, 49.9722496 40.3921956, 49.9718211 40.3922347, 49.9716903 40.3922583, 49.9716517 40.3922781, 49.9716383 40.3923195, 49.9716447 40.3924276, 49.9713223 40.3924236, 49.9712826 40.3924112, 49.9712588 40.3923812, 49.9712146 40.3918227)</data>
+    </edge>
+    <edge source="1285935427" target="1661857662" id="0">
+      <data key="d8">[1567278625, 1569668489, 191043163, 1567432015]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Əhməd Mehbalıyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">275.8276723069643</data>
+      <data key="d15">LINESTRING (49.9725772 40.3925581, 49.972554 40.392593, 49.9725393 40.392643, 49.9725379 40.3927094, 49.972548 40.3930068, 49.9725532 40.3931611, 49.972569 40.3934551, 49.9725914 40.3938739, 49.9726163 40.3943366, 49.9726234 40.3944693, 49.9726535 40.3950315)</data>
     </edge>
     <edge source="1285935439" target="6578360141" id="0">
       <data key="d8">4721947</data>
@@ -69612,15 +69610,6 @@
       <data key="d14">370.5650737338036</data>
       <data key="d15">LINESTRING (49.7929611 40.3999897, 49.7929094 40.3999316, 49.792346 40.3988651, 49.792261 40.3987048, 49.7921652 40.3985109, 49.7918661 40.3979701, 49.7917714 40.3977995, 49.7917228 40.3977121, 49.7914173 40.3971499, 49.791336 40.3970004, 49.791288 40.3969121)</data>
     </edge>
-    <edge source="1296844009" target="3124458988" id="0">
-      <data key="d8">1549814219</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Əsəd Əhmədov küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">68.29865130065134</data>
-    </edge>
     <edge source="1296844009" target="1655882670" id="0">
       <data key="d8">114491261</data>
       <data key="d9">tertiary</data>
@@ -69630,6 +69619,16 @@
       <data key="d13">True</data>
       <data key="d14">183.13378018079928</data>
       <data key="d15">LINESTRING (49.7964566 40.3939329, 49.7965911 40.3946126, 49.7967449 40.3952606, 49.7967799 40.3955605)</data>
+    </edge>
+    <edge source="1296844009" target="3124458988" id="0">
+      <data key="d8">1549814219</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Əsəd Əhmədov küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">68.29865147406335</data>
+      <data key="d15">LINESTRING (49.7964566 40.3939329, 49.7958367 40.3938746, 49.7956562 40.3938576)</data>
     </edge>
     <edge source="1296844009" target="1655882639" id="0">
       <data key="d8">[1549814220, 1549814221]</data>
@@ -70219,20 +70218,20 @@
       <data key="d11">Müzəffər Həsənov küç.</data>
       <data key="d15">LINESTRING (49.799462 40.4060889, 49.7997017 40.4059788, 49.8011687 40.4055947, 49.8023133 40.4053054, 49.8031733 40.4050988, 49.8033513 40.405055)</data>
     </edge>
-    <edge source="1303617257" target="10867298058" id="0">
-      <data key="d8">115347359</data>
-      <data key="d9">secondary</data>
-      <data key="d11">Əliağa Şıxlinski küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">57.28419817275975</data>
-    </edge>
     <edge source="1303617257" target="2769147136" id="0">
       <data key="d8">277057020</data>
       <data key="d9">secondary</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">43.18364784244901</data>
+    </edge>
+    <edge source="1303617257" target="10867298058" id="0">
+      <data key="d8">1569533265</data>
+      <data key="d9">secondary</data>
+      <data key="d11">Əliağa Şıxlinski küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">57.28419817275975</data>
     </edge>
     <edge source="1303617257" target="10867298054" id="0">
       <data key="d8">272558338</data>
@@ -70654,14 +70653,14 @@
       <data key="d15">LINESTRING (49.875298 40.4029182, 49.8750852 40.4027935, 49.8746696 40.4025548, 49.8743308 40.4023604, 49.8737533 40.402029, 49.8733625 40.4018048)</data>
     </edge>
     <edge source="1304761718" target="1312030500" id="0">
-      <data key="d8">[737235140, 1553443213]</data>
+      <data key="d8">[1567074170, 737235140, 1553443213]</data>
       <data key="d9">secondary</data>
       <data key="d17">2</data>
       <data key="d11">Təbriz küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">435.6681608406129</data>
-      <data key="d15">LINESTRING (49.8552402 40.3905878, 49.8536548 40.3892621, 49.8535906 40.3892084, 49.8535489 40.3891735, 49.8532701 40.3889489, 49.8530952 40.3888001, 49.8530092 40.3887196, 49.8529387 40.3886363, 49.8527425 40.3883314, 49.85229 40.3876361, 49.8522784 40.3876195, 49.8521868 40.3874767)</data>
+      <data key="d14">435.668160899851</data>
+      <data key="d15">LINESTRING (49.8552402 40.3905878, 49.8536548 40.3892621, 49.8535906 40.3892084, 49.8535489 40.3891735, 49.8532701 40.3889489, 49.8530952 40.3888001, 49.8530092 40.3887196, 49.8529387 40.3886363, 49.8527425 40.3883314, 49.8525885 40.3880948, 49.85229 40.3876361, 49.8522784 40.3876195, 49.8521868 40.3874767)</data>
     </edge>
     <edge source="1304761718" target="3926666009" id="0">
       <data key="d8">1184493074</data>
@@ -70935,7 +70934,7 @@
       <data key="d15">LINESTRING (49.8247725 40.380632, 49.824881 40.3806483, 49.825522 40.380768, 49.8257405 40.3808112)</data>
     </edge>
     <edge source="1310960166" target="1772368700" id="0">
-      <data key="d8">493999303</data>
+      <data key="d8">1567948911</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
       <data key="d11">Abdulla Şaiq küçəsi</data>
@@ -71654,7 +71653,8 @@
       <data key="d11">Murtuza Muxtarov küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">76.62549893270139</data>
+      <data key="d14">76.6254992537978</data>
+      <data key="d15">LINESTRING (49.8281158 40.3820354, 49.8282292 40.3817396, 49.8283693 40.3813739)</data>
     </edge>
     <edge source="1311583595" target="1311583649" id="0">
       <data key="d8">25406524</data>
@@ -71788,7 +71788,7 @@
       <data key="d15">LINESTRING (49.8225962 40.3839981, 49.8225304 40.3844551, 49.8225206 40.3845538, 49.8225129 40.3845932, 49.8224963 40.3846776, 49.8223257 40.3851263, 49.8222465 40.3853408, 49.8220676 40.3858121, 49.82198 40.3860622, 49.8217903 40.3865968, 49.8217489 40.3866818, 49.821727 40.3867075, 49.8217054 40.3867213, 49.8216512 40.3867266, 49.8216084 40.3867248, 49.821003 40.3866956, 49.8209345 40.3866927, 49.8208944 40.3870315, 49.8208362 40.3875225, 49.8208214 40.3877247, 49.8207879 40.3879198, 49.8207517 40.3882151, 49.8207128 40.388686)</data>
     </edge>
     <edge source="1311583619" target="5046859737" id="0">
-      <data key="d8">493999303</data>
+      <data key="d8">1567948913</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
       <data key="d11">Abdulla Şaiq küçəsi</data>
@@ -72034,7 +72034,8 @@
       <data key="d11">Murtuza Muxtarov küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">49.57880239931604</data>
+      <data key="d14">49.578802459561814</data>
+      <data key="d15">LINESTRING (49.827943 40.3824614, 49.8280673 40.382155, 49.8281158 40.3820354)</data>
     </edge>
     <edge source="1311583649" target="632725448" id="0">
       <data key="d8">114491263</data>
@@ -73055,14 +73056,6 @@
       <data key="d13">False</data>
       <data key="d14">14.78376270269031</data>
     </edge>
-    <edge source="1344386650" target="4452481941" id="0">
-      <data key="d8">119750262</data>
-      <data key="d9">secondary</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">86.20911653496799</data>
-      <data key="d15">LINESTRING (49.8458164 40.4134406, 49.8458511 40.4132891, 49.8458531 40.413252, 49.8458427 40.4132128, 49.8458113 40.4131781, 49.845777 40.4131577, 49.8457445 40.4131458, 49.8451863 40.4130257)</data>
-    </edge>
     <edge source="1344386650" target="7056784503" id="0">
       <data key="d8">1548196066</data>
       <data key="d9">secondary</data>
@@ -73072,6 +73065,14 @@
       <data key="d13">False</data>
       <data key="d14">64.81090532336579</data>
       <data key="d15">LINESTRING (49.8458164 40.4134406, 49.8460141 40.412961, 49.8460233 40.4129379, 49.8460444 40.4128842)</data>
+    </edge>
+    <edge source="1344386650" target="4452481941" id="0">
+      <data key="d8">[1570374321, 119750262]</data>
+      <data key="d9">secondary</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">86.20911653496799</data>
+      <data key="d15">LINESTRING (49.8458164 40.4134406, 49.8458511 40.4132891, 49.8458531 40.413252, 49.8458427 40.4132128, 49.8458113 40.4131781, 49.845777 40.4131577, 49.8457445 40.4131458, 49.8451863 40.4130257)</data>
     </edge>
     <edge source="1345963002" target="4888555309" id="0">
       <data key="d8">[1549258284, 1549258285]</data>
@@ -73167,7 +73168,7 @@
     <edge source="1416166971" target="1797880831" id="0">
       <data key="d8">[290633714, 167173315]</data>
       <data key="d9">trunk</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d10">60</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -73313,8 +73314,8 @@
       <data key="d9">secondary</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">76.15587491590746</data>
-      <data key="d15">LINESTRING (49.8147296 40.4063199, 49.8144542 40.4062594, 49.8141185 40.4061898, 49.8140435 40.4061749, 49.8139505 40.4061661, 49.8138571 40.4061713)</data>
+      <data key="d14">76.1558750021614</data>
+      <data key="d15">LINESTRING (49.8147296 40.4063199, 49.8144542 40.4062594, 49.8142864 40.4062246, 49.8141185 40.4061898, 49.8140435 40.4061749, 49.8139505 40.4061661, 49.8138571 40.4061713)</data>
     </edge>
     <edge source="1421687518" target="1421687577" id="0">
       <data key="d8">1007988423</data>
@@ -73391,7 +73392,7 @@
       <data key="d16">yes</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
-      <data key="d11">['Rövşən Cəfərov küçəsi', 'Ziya Bünyadov prospekti', 'Alı Mustafayev küçəsi']</data>
+      <data key="d11">['Ziya Bünyadov prospekti', 'Alı Mustafayev küçəsi', 'Rövşən Cəfərov küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">1076.7276144756781</data>
@@ -73413,7 +73414,7 @@
       <data key="d16">yes</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
-      <data key="d11">['Rövşən Cəfərov küçəsi', 'Alı Mustafayev küçəsi']</data>
+      <data key="d11">['Alı Mustafayev küçəsi', 'Rövşən Cəfərov küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">602.2368356753979</data>
@@ -73835,8 +73836,8 @@
       <data key="d9">primary_link</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">82.60632127421327</data>
-      <data key="d15">LINESTRING (49.8622941 40.3916135, 49.8624023 40.3916425, 49.8625467 40.3916733, 49.8626505 40.3916951, 49.8627715 40.3917114, 49.8628799 40.3917161, 49.863034 40.3917146, 49.8632514 40.3917096)</data>
+      <data key="d14">82.60633066899639</data>
+      <data key="d15">LINESTRING (49.8622941 40.3916135, 49.8623641 40.3916322, 49.8624023 40.3916425, 49.8625467 40.3916733, 49.8626505 40.3916951, 49.8627715 40.3917114, 49.8628799 40.3917161, 49.863034 40.3917146, 49.8632514 40.3917096)</data>
     </edge>
     <edge source="1421712084" target="366835066" id="0">
       <data key="d8">[1549532878, 460009808, 618792022, 618792024, 618792026]</data>
@@ -74168,7 +74169,7 @@
       <data key="d11">8km</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">14.698773717648214</data>
+      <data key="d14">15.791318373910125</data>
     </edge>
     <edge source="1421786231" target="1430724889" id="0">
       <data key="d8">499548369</data>
@@ -74177,8 +74178,8 @@
       <data key="d11">Qara Qarayev prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">491.347030439246</data>
-      <data key="d15">LINESTRING (49.9406821 40.4138491, 49.9405584 40.4140187, 49.9401583 40.4145672, 49.9396205 40.4152778, 49.9390908 40.4159905, 49.9385398 40.4166917, 49.9384424 40.4167484, 49.9383232 40.4167909, 49.9381314 40.4168305, 49.9371218 40.4170388)</data>
+      <data key="d14">497.9839865473624</data>
+      <data key="d15">LINESTRING (49.9407098 40.4137926, 49.9405414 40.4140255, 49.9401583 40.4145672, 49.9396205 40.4152778, 49.9390908 40.4159905, 49.9385398 40.4166917, 49.9384424 40.4167484, 49.9383232 40.4167909, 49.9381314 40.4168305, 49.9371218 40.4170388)</data>
     </edge>
     <edge source="1421786231" target="1421797629" id="0">
       <data key="d8">1560789540</data>
@@ -74187,8 +74188,8 @@
       <data key="d11">Musa Əliyev küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">39.822092923859735</data>
-      <data key="d15">LINESTRING (49.9406821 40.4138491, 49.9407103 40.4138424, 49.9408141 40.4138248, 49.9409049 40.4137993, 49.9409991 40.4137728, 49.941119 40.4137219)</data>
+      <data key="d14">35.68482082781118</data>
+      <data key="d15">LINESTRING (49.9407098 40.4137926, 49.9408713 40.4137683, 49.9410152 40.4137531, 49.941119 40.4137219)</data>
     </edge>
     <edge source="1421786238" target="1421786218" id="0">
       <data key="d8">1548448073</data>
@@ -74200,7 +74201,7 @@
       <data key="d14">31.095105045184233</data>
       <data key="d15">LINESTRING (49.9434516 40.4103511, 49.9433579 40.4103622, 49.943279 40.410353, 49.9432066 40.4103274, 49.9431276 40.4102661)</data>
     </edge>
-    <edge source="1421786238" target="1509704851" id="0">
+    <edge source="1421786238" target="13762192469" id="0">
       <data key="d8">[1564677964, 128729879, 1564676551]</data>
       <data key="d9">primary</data>
       <data key="d17">3</data>
@@ -74208,8 +74209,8 @@
       <data key="d11">Qara Qarayev prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">412.0538418538049</data>
-      <data key="d15">LINESTRING (49.9434516 40.4103511, 49.9433492 40.4103896, 49.9432725 40.4104286, 49.9432086 40.4104745, 49.9431575 40.4105274, 49.9431177 40.4105776, 49.9428528 40.4109338, 49.9422715 40.411714, 49.942216 40.4117885, 49.9415589 40.4126706, 49.9409289 40.413492)</data>
+      <data key="d14">419.2094613621172</data>
+      <data key="d15">LINESTRING (49.9434516 40.4103511, 49.9433492 40.4103896, 49.9432725 40.4104286, 49.9432086 40.4104745, 49.9431575 40.4105274, 49.9431177 40.4105776, 49.9428528 40.4109338, 49.9422715 40.411714, 49.942216 40.4117885, 49.9415589 40.4126706, 49.9409185 40.4135186, 49.9408936 40.4135508)</data>
     </edge>
     <edge source="1421786251" target="1214070639" id="0">
       <data key="d8">1548448071</data>
@@ -74268,8 +74269,8 @@
       <data key="d11">Musa Əliyev küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">39.822092923859735</data>
-      <data key="d15">LINESTRING (49.941119 40.4137219, 49.9409991 40.4137728, 49.9409049 40.4137993, 49.9408141 40.4138248, 49.9407103 40.4138424, 49.9406821 40.4138491)</data>
+      <data key="d14">35.68482082781118</data>
+      <data key="d15">LINESTRING (49.941119 40.4137219, 49.9410152 40.4137531, 49.9408713 40.4137683, 49.9407098 40.4137926)</data>
     </edge>
     <edge source="1421797631" target="1421797713" id="0">
       <data key="d8">1549274697</data>
@@ -74295,7 +74296,7 @@
       <data key="d11">Nəsimi küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">24.408530204843395</data>
+      <data key="d14">26.08468507694074</data>
     </edge>
     <edge source="1421797643" target="1430724880" id="0">
       <data key="d8">184257639</data>
@@ -74303,8 +74304,8 @@
       <data key="d11">Nəsimi küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">212.39024658150873</data>
-      <data key="d15">LINESTRING (49.9402516 40.4137245, 49.9401394 40.4136789, 49.9395549 40.4134415, 49.9388763 40.413147, 49.9380621 40.4127925)</data>
+      <data key="d14">212.4434972219927</data>
+      <data key="d15">LINESTRING (49.9402516 40.4137245, 49.9401162 40.4136789, 49.9400163 40.413641, 49.9395549 40.4134415, 49.9388763 40.413147, 49.9380621 40.4127925)</data>
     </edge>
     <edge source="1421797643" target="1430724879" id="0">
       <data key="d8">499548367</data>
@@ -74416,7 +74417,7 @@
       <data key="d15">LINESTRING (49.9252045 40.4191426, 49.9253283 40.4191146, 49.9255487 40.4190647, 49.9263473 40.4188899)</data>
     </edge>
     <edge source="1421797713" target="1757071185" id="0">
-      <data key="d8">[164046433, 1549274698]</data>
+      <data key="d8">[164046433, 1549274698, 1570328261, 1570328262]</data>
       <data key="d9">residential</data>
       <data key="d11">Əli Vəliyev</data>
       <data key="d12">True</data>
@@ -75196,7 +75197,7 @@
       <data key="d9">secondary</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">13.737359598727693</data>
+      <data key="d14">11.620968898377283</data>
     </edge>
     <edge source="1430720257" target="3595697969" id="0">
       <data key="d8">154654666</data>
@@ -75204,8 +75205,8 @@
       <data key="d11">Sülh küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">153.785054042503</data>
-      <data key="d15">LINESTRING (49.9571887 40.4160681, 49.9572944 40.4161134, 49.9587719 40.4167462)</data>
+      <data key="d14">153.3345459025186</data>
+      <data key="d15">LINESTRING (49.9571926 40.4160711, 49.9572944 40.4161134, 49.9587719 40.4167462)</data>
     </edge>
     <edge source="1430720257" target="1912562722" id="0">
       <data key="d8">[1162127864, 1162127865, 628340199]</data>
@@ -75213,8 +75214,8 @@
       <data key="d11">Ramiz Qəmbərov küç.</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">370.77130913727876</data>
-      <data key="d15">LINESTRING (49.9571887 40.4160681, 49.9577378 40.4153178, 49.9580469 40.4148719, 49.9583694 40.4144067, 49.9589655 40.4135307, 49.9590263 40.4134414, 49.9591955 40.4131998, 49.9592476 40.4131254)</data>
+      <data key="d14">370.914159937725</data>
+      <data key="d15">LINESTRING (49.9571926 40.4160711, 49.957315 40.4159131, 49.9577378 40.4153178, 49.9580469 40.4148719, 49.9583694 40.4144067, 49.9589655 40.4135307, 49.9590263 40.4134414, 49.9591955 40.4131998, 49.9592476 40.4131254)</data>
     </edge>
     <edge source="1430720262" target="1846519497" id="0">
       <data key="d8">151812366</data>
@@ -75240,7 +75241,7 @@
       <data key="d9">secondary</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">13.737359598727693</data>
+      <data key="d14">11.620968898377283</data>
     </edge>
     <edge source="1430720271" target="2591206270" id="0">
       <data key="d8">626921565</data>
@@ -75250,8 +75251,8 @@
       <data key="d11">Ramiz Qəmbərov</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">193.81775743240854</data>
-      <data key="d15">LINESTRING (49.9571111 40.4161766, 49.956913 40.4164346, 49.9568236 40.4165532, 49.9565522 40.4169461, 49.9560164 40.4177072)</data>
+      <data key="d14">195.81005977891715</data>
+      <data key="d15">LINESTRING (49.9571258 40.4161624, 49.9571057 40.416188, 49.956913 40.4164346, 49.9568236 40.4165532, 49.9565522 40.4169461, 49.9560164 40.4177072)</data>
     </edge>
     <edge source="1430720274" target="1760944583" id="0">
       <data key="d8">[1556856785, 1560789541]</data>
@@ -75263,7 +75264,7 @@
       <data key="d15">LINESTRING (49.9599917 40.4125027, 49.9598846 40.4125474, 49.959816 40.4125784, 49.9597742 40.4125973)</data>
     </edge>
     <edge source="1430720897" target="3596883237" id="0">
-      <data key="d8">1100686130</data>
+      <data key="d8">1568337907</data>
       <data key="d9">tertiary</data>
       <data key="d11">Sakit Qocayev küçəsi</data>
       <data key="d12">False</data>
@@ -75271,7 +75272,7 @@
       <data key="d14">12.125516138404691</data>
     </edge>
     <edge source="1430720897" target="1430759465" id="0">
-      <data key="d8">1100686130</data>
+      <data key="d8">[1568337901, 1568337902, 1568337903, 1568337904, 1568337905, 1568337906]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Sakit Qocayev küçəsi</data>
       <data key="d12">False</data>
@@ -75313,7 +75314,7 @@
       <data key="d8">[353756229, 129737334]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
-      <data key="d11">['Ruhulla Axundov küç.', 'Mahir Əmirov küç.']</data>
+      <data key="d11">['Mahir Əmirov küç.', 'Ruhulla Axundov küç.']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">316.58082583036185</data>
@@ -75561,8 +75562,8 @@
       <data key="d11">Nəsimi küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">212.39024658150873</data>
-      <data key="d15">LINESTRING (49.9380621 40.4127925, 49.9388763 40.413147, 49.9395549 40.4134415, 49.9401394 40.4136789, 49.9402516 40.4137245)</data>
+      <data key="d14">212.44349722199266</data>
+      <data key="d15">LINESTRING (49.9380621 40.4127925, 49.9388763 40.413147, 49.9395549 40.4134415, 49.9400163 40.413641, 49.9401162 40.4136789, 49.9402516 40.4137245)</data>
     </edge>
     <edge source="1430724880" target="1421797671" id="0">
       <data key="d8">184257785</data>
@@ -75622,15 +75623,6 @@
       <data key="d14">257.04642720639083</data>
       <data key="d15">LINESTRING (49.931815 40.4101074, 49.93128 40.4098736, 49.9306888 40.409612, 49.9303148 40.4094349, 49.9291813 40.4089582)</data>
     </edge>
-    <edge source="1430724889" target="8954058244" id="0">
-      <data key="d8">129737750</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Şirin Mirzəyev küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">23.792895060837644</data>
-    </edge>
     <edge source="1430724889" target="1509704852" id="0">
       <data key="d8">494505058</data>
       <data key="d9">residential</data>
@@ -75647,6 +75639,15 @@
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">77.93229791590555</data>
+    </edge>
+    <edge source="1430724889" target="8954058244" id="0">
+      <data key="d8">1571998067</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Şirin Mirzəyev küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">23.792895060837644</data>
     </edge>
     <edge source="1430724895" target="1631771592" id="0">
       <data key="d8">129737745</data>
@@ -75889,18 +75890,8 @@
       <data key="d14">219.53800804958703</data>
       <data key="d15">LINESTRING (49.9283899 40.4086408, 49.9282721 40.4088259, 49.9280014 40.4092645, 49.9279475 40.4093339, 49.9277492 40.4095627, 49.9276471 40.4096975, 49.9274327 40.4100365, 49.9273491 40.4101763, 49.9276267 40.4102978)</data>
     </edge>
-    <edge source="1430732860" target="1430732878" id="0">
-      <data key="d8">537186263</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Bəkir Çobanzadə küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">78.31563564012565</data>
-      <data key="d15">LINESTRING (49.941777 40.3964809, 49.9418966 40.396322, 49.942237 40.3958699)</data>
-    </edge>
     <edge source="1430732860" target="1430744669" id="0">
-      <data key="d8">537186263</data>
+      <data key="d8">[1571342353, 1571342354, 1571342355, 1571342356, 1571342357, 1571342358, 1571342359, 1571342360, 1571342361, 1571342362, 1571342363]</data>
       <data key="d9">tertiary</data>
       <data key="d10">60</data>
       <data key="d11">Bəkir Çobanzadə küçəsi</data>
@@ -75908,6 +75899,16 @@
       <data key="d13">True</data>
       <data key="d14">498.21437742059874</data>
       <data key="d15">LINESTRING (49.941777 40.3964809, 49.9417415 40.3965268, 49.9415728 40.3967635, 49.9414785 40.3968904, 49.9410621 40.3974632, 49.9409068 40.3976742, 49.9407116 40.3979448, 49.9405596 40.3981555, 49.9403461 40.3984538, 49.940019 40.3989029, 49.9397888 40.399219, 49.939141 40.4000847, 49.9389163 40.400396)</data>
+    </edge>
+    <edge source="1430732860" target="1430732878" id="0">
+      <data key="d8">1571342364</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Bəkir Çobanzadə küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">78.31563564012565</data>
+      <data key="d15">LINESTRING (49.941777 40.3964809, 49.9418966 40.396322, 49.942237 40.3958699)</data>
     </edge>
     <edge source="1430732878" target="3303727182" id="0">
       <data key="d8">129738352</data>
@@ -75919,16 +75920,6 @@
       <data key="d14">217.57899768973178</data>
       <data key="d15">LINESTRING (49.942237 40.3958699, 49.9432257 40.3962729, 49.944487 40.3968144)</data>
     </edge>
-    <edge source="1430732878" target="1430732860" id="0">
-      <data key="d8">537186263</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Bəkir Çobanzadə küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">78.31563564012565</data>
-      <data key="d15">LINESTRING (49.942237 40.3958699, 49.9418966 40.396322, 49.941777 40.3964809)</data>
-    </edge>
     <edge source="1430732878" target="2099430091" id="0">
       <data key="d8">1556856788</data>
       <data key="d9">tertiary</data>
@@ -75938,6 +75929,16 @@
       <data key="d13">False</data>
       <data key="d14">59.92673391970896</data>
       <data key="d15">LINESTRING (49.942237 40.3958699, 49.9424584 40.3955673, 49.9425814 40.3953991)</data>
+    </edge>
+    <edge source="1430732878" target="1430732860" id="0">
+      <data key="d8">1571342364</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Bəkir Çobanzadə küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">78.31563564012565</data>
+      <data key="d15">LINESTRING (49.942237 40.3958699, 49.9418966 40.396322, 49.941777 40.3964809)</data>
     </edge>
     <edge source="1430744669" target="1430744764" id="0">
       <data key="d8">537186263</data>
@@ -75959,7 +75960,7 @@
       <data key="d15">LINESTRING (49.9389163 40.400396, 49.9390523 40.4004537, 49.9391033 40.4004757, 49.9411506 40.4013574, 49.9413955 40.4014629)</data>
     </edge>
     <edge source="1430744669" target="1430732860" id="0">
-      <data key="d8">537186263</data>
+      <data key="d8">[1571342353, 1571342354, 1571342355, 1571342356, 1571342357, 1571342358, 1571342359, 1571342360, 1571342361, 1571342362, 1571342363]</data>
       <data key="d9">tertiary</data>
       <data key="d10">60</data>
       <data key="d11">Bəkir Çobanzadə küçəsi</data>
@@ -76192,13 +76193,14 @@
       <data key="d15">LINESTRING (49.9524483 40.4115496, 49.9524126 40.4115912, 49.9523171 40.4117183, 49.9523058 40.4117334, 49.9522844 40.4117619, 49.951591 40.412695, 49.9514111 40.412937, 49.9512207 40.4131546)</data>
     </edge>
     <edge source="1430756157" target="1430756164" id="0">
-      <data key="d8">1550488596</data>
+      <data key="d8">[1550488596, 1571950821]</data>
       <data key="d9">unclassified</data>
       <data key="d10">60</data>
       <data key="d11">Cəmşid Naxçıvanski</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">118.18055555446618</data>
+      <data key="d14">118.18055556430747</data>
+      <data key="d15">LINESTRING (49.9568694 40.4080659, 49.9577019 40.4084126, 49.958094 40.4085759)</data>
     </edge>
     <edge source="1430756160" target="1760944609" id="0">
       <data key="d8">355397540</data>
@@ -76552,24 +76554,6 @@
       <data key="d14">81.85866802695193</data>
       <data key="d15">LINESTRING (49.9651267 40.4199838, 49.9651942 40.4198932, 49.9653654 40.4196624, 49.9656027 40.419343)</data>
     </edge>
-    <edge source="1430759465" target="1430720897" id="0">
-      <data key="d8">1100686130</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Sakit Qocayev küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">307.0988001923696</data>
-      <data key="d15">LINESTRING (49.9668082 40.4141747, 49.966203 40.4150104, 49.9661355 40.4151035, 49.9658129 40.415529, 49.965456 40.4159999, 49.965359 40.4161279, 49.9650041 40.4165703)</data>
-    </edge>
-    <edge source="1430759465" target="1285926747" id="0">
-      <data key="d8">1100686130</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Sakit Qocayev küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">233.0662932295202</data>
-      <data key="d15">LINESTRING (49.9668082 40.4141747, 49.9670012 40.4139093, 49.9670476 40.4138463, 49.9679054 40.4127069, 49.968072 40.4124433, 49.9681331 40.4123386)</data>
-    </edge>
     <edge source="1430759465" target="1430759451" id="0">
       <data key="d8">[129742525, 1131930039]</data>
       <data key="d9">tertiary</data>
@@ -76578,6 +76562,24 @@
       <data key="d13">False</data>
       <data key="d14">195.51301353763438</data>
       <data key="d15">LINESTRING (49.9668082 40.4141747, 49.9672526 40.4143668, 49.9673239 40.4143977, 49.9681629 40.4147603, 49.9684222 40.4148724, 49.9685618 40.4149328, 49.9688161 40.4150433)</data>
+    </edge>
+    <edge source="1430759465" target="1285926747" id="0">
+      <data key="d8">[1568337898, 1568337899, 1568337900, 1100686130]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Sakit Qocayev küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">233.0662932295202</data>
+      <data key="d15">LINESTRING (49.9668082 40.4141747, 49.9670012 40.4139093, 49.9670476 40.4138463, 49.9679054 40.4127069, 49.968072 40.4124433, 49.9681331 40.4123386)</data>
+    </edge>
+    <edge source="1430759465" target="1430720897" id="0">
+      <data key="d8">[1568337901, 1568337902, 1568337903, 1568337904, 1568337905, 1568337906]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Sakit Qocayev küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">307.0988001923696</data>
+      <data key="d15">LINESTRING (49.9668082 40.4141747, 49.966203 40.4150104, 49.9661355 40.4151035, 49.9658129 40.415529, 49.965456 40.4159999, 49.965359 40.4161279, 49.9650041 40.4165703)</data>
     </edge>
     <edge source="1430763819" target="1430759451" id="0">
       <data key="d8">129742527</data>
@@ -79004,13 +79006,13 @@
       <data key="d15">LINESTRING (49.8755485 40.394243, 49.8755103 40.3941935, 49.8747176 40.393255)</data>
     </edge>
     <edge source="1485521320" target="1525007280" id="0">
-      <data key="d8">306531045</data>
+      <data key="d8">[306531045, 1567236094]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Mayakovski küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">129.58859159351</data>
-      <data key="d15">LINESTRING (49.8755485 40.394243, 49.8756355 40.3941894, 49.8767768 40.3935481)</data>
+      <data key="d14">129.58859172267668</data>
+      <data key="d15">LINESTRING (49.8755485 40.394243, 49.8756355 40.3941894, 49.8764331 40.3937412, 49.8767768 40.3935481)</data>
     </edge>
     <edge source="1485521321" target="1485521320" id="0">
       <data key="d8">183277718</data>
@@ -79613,7 +79615,7 @@
       <data key="d14">92.84787100727823</data>
     </edge>
     <edge source="1489408842" target="3607052491" id="0">
-      <data key="d8">135318173</data>
+      <data key="d8">1570363439</data>
       <data key="d9">primary</data>
       <data key="d17">4</data>
       <data key="d11">Vaqif prospekti</data>
@@ -79895,13 +79897,13 @@
       <data key="d15">LINESTRING (49.8463764 40.3772425, 49.8480973 40.377763, 49.8481699 40.3777842)</data>
     </edge>
     <edge source="1490151990" target="482983954" id="0">
-      <data key="d8">1548179318</data>
+      <data key="d8">[1548179318, 1567980911]</data>
       <data key="d9">primary</data>
       <data key="d11">Füzuli küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">128.7698948814877</data>
-      <data key="d15">LINESTRING (49.8458525 40.3793981, 49.8448474 40.3791336, 49.8446048 40.3790671, 49.844416 40.3790192)</data>
+      <data key="d14">128.7698951524689</data>
+      <data key="d15">LINESTRING (49.8458525 40.3793981, 49.8454217 40.3792847, 49.8448474 40.3791336, 49.8446048 40.3790671, 49.844416 40.3790192)</data>
     </edge>
     <edge source="1490151991" target="276374010" id="0">
       <data key="d8">52870851</data>
@@ -80401,7 +80403,7 @@
     <edge source="1491142385" target="13778088767" id="0">
       <data key="d8">[1506311299, 1280166084]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d10">50</data>
       <data key="d11">Səməd Vurğun küçəsi</data>
       <data key="d12">True</data>
@@ -81081,6 +81083,7 @@
     <edge source="1494327479" target="2558759808" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -81126,6 +81129,7 @@
     <edge source="1494327482" target="3226267111" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -81144,6 +81148,7 @@
     <edge source="1494327482" target="3636135165" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -81154,6 +81159,7 @@
     <edge source="1494327484" target="3226267111" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -81163,6 +81169,7 @@
     <edge source="1494327484" target="3742685570" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -81238,6 +81245,7 @@
     <edge source="1494327490" target="3742667151" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -81802,7 +81810,7 @@
     <edge source="1494327567" target="1494327599" id="0">
       <data key="d8">[908431880, 136192103]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Sara Qədimova küç.', 'Aydın Məmmədov küç.']</data>
+      <data key="d11">['Aydın Məmmədov küç.', 'Sara Qədimova küç.']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">343.5047792159792</data>
@@ -81984,7 +81992,7 @@
     <edge source="1494327599" target="1494327567" id="0">
       <data key="d8">[908431880, 136192103]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Sara Qədimova küç.', 'Aydın Məmmədov küç.']</data>
+      <data key="d11">['Aydın Məmmədov küç.', 'Sara Qədimova küç.']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">343.5047792159792</data>
@@ -82622,7 +82630,7 @@
       <data key="d11">8km</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">14.698773717648214</data>
+      <data key="d14">15.791318373910125</data>
     </edge>
     <edge source="1509704849" target="1421797643" id="0">
       <data key="d8">499548368</data>
@@ -82630,7 +82638,7 @@
       <data key="d11">Nəsimi küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">24.408530204843395</data>
+      <data key="d14">26.08468507694074</data>
     </edge>
     <edge source="1509704849" target="4862632460" id="0">
       <data key="d8">499548370</data>
@@ -82640,27 +82648,8 @@
       <data key="d11">Qara Qarayev prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">204.24251868324615</data>
-      <data key="d15">LINESTRING (49.9405145 40.4138146, 49.9407686 40.4134736, 49.9417049 40.412217)</data>
-    </edge>
-    <edge source="1509704851" target="1421797629" id="0">
-      <data key="d8">187410201</data>
-      <data key="d9">primary_link</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">41.25014007792518</data>
-      <data key="d15">LINESTRING (49.9409289 40.413492, 49.9409103 40.413539, 49.9409003 40.4135641, 49.940892 40.4136219, 49.9408942 40.413646, 49.9409043 40.4136713, 49.9409215 40.4136914, 49.9409458 40.413709, 49.9409725 40.413721, 49.941004 40.4137305, 49.941119 40.4137219)</data>
-    </edge>
-    <edge source="1509704851" target="1421786231" id="0">
-      <data key="d8">1560789539</data>
-      <data key="d9">primary</data>
-      <data key="d17">3</data>
-      <data key="d10">60</data>
-      <data key="d11">Qara Qarayev prospekti</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">44.86971744865283</data>
-      <data key="d15">LINESTRING (49.9409289 40.413492, 49.9408998 40.4135342, 49.9406821 40.4138491)</data>
+      <data key="d14">204.84216779229706</data>
+      <data key="d15">LINESTRING (49.9405288 40.4138269, 49.9407695 40.4134954, 49.9417049 40.412217)</data>
     </edge>
     <edge source="1509704852" target="4862632465" id="0">
       <data key="d8">494505057</data>
@@ -83207,14 +83196,6 @@
       <data key="d14">153.34729408803085</data>
       <data key="d15">LINESTRING (49.8798498 40.3934379, 49.8799012 40.3932299, 49.8802578 40.3920945)</data>
     </edge>
-    <edge source="1525007280" target="13004314973" id="0">
-      <data key="d8">135451505</data>
-      <data key="d9">residential</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">177.59118710592816</data>
-      <data key="d15">LINESTRING (49.8767768 40.3935481, 49.8766435 40.3935163, 49.8758237 40.3933965, 49.8752848 40.3933134, 49.8748136 40.3932589, 49.8747176 40.393255)</data>
-    </edge>
     <edge source="1525007280" target="1525007285" id="0">
       <data key="d8">135451505</data>
       <data key="d9">residential</data>
@@ -83231,6 +83212,14 @@
       <data key="d13">False</data>
       <data key="d14">117.79972582084888</data>
       <data key="d15">LINESTRING (49.8767768 40.3935481, 49.8769481 40.3934582, 49.8770714 40.3933935, 49.8779222 40.392947)</data>
+    </edge>
+    <edge source="1525007280" target="13004314973" id="0">
+      <data key="d8">1567236633</data>
+      <data key="d9">residential</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">177.59118710592816</data>
+      <data key="d15">LINESTRING (49.8767768 40.3935481, 49.8766435 40.3935163, 49.8758237 40.3933965, 49.8752848 40.3933134, 49.8748136 40.3932589, 49.8747176 40.393255)</data>
     </edge>
     <edge source="1525007283" target="1525007278" id="0">
       <data key="d8">139154356</data>
@@ -84976,7 +84965,7 @@
     <edge source="1646580488" target="1969380375" id="0">
       <data key="d8">[151811645, 1100687310]</data>
       <data key="d9">tertiary</data>
-      <data key="d11">['Yusif Eyvazov küç.', 'Yusif Eyvazov küçəsi']</data>
+      <data key="d11">['Yusif Eyvazov küçəsi', 'Yusif Eyvazov küç.']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">80.4908362397359</data>
@@ -90239,13 +90228,13 @@
       <data key="d14">67.72650918187873</data>
     </edge>
     <edge source="1661857662" target="1285935427" id="0">
-      <data key="d8">191043163</data>
+      <data key="d8">[1569668489, 191043163, 1567278625, 1567432015]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Əhməd Mehbalıyev küç.</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">275.827671720692</data>
-      <data key="d15">LINESTRING (49.9726535 40.3950315, 49.9726234 40.3944693, 49.9726163 40.3943366, 49.9725914 40.3938739, 49.9725532 40.3931611, 49.9725379 40.3927094, 49.9725393 40.392643, 49.972554 40.392593, 49.9725772 40.3925581)</data>
+      <data key="d14">275.8276723069643</data>
+      <data key="d15">LINESTRING (49.9726535 40.3950315, 49.9726234 40.3944693, 49.9726163 40.3943366, 49.9725914 40.3938739, 49.972569 40.3934551, 49.9725532 40.3931611, 49.972548 40.3930068, 49.9725379 40.3927094, 49.9725393 40.392643, 49.972554 40.392593, 49.9725772 40.3925581)</data>
     </edge>
     <edge source="1662285509" target="2558670872" id="0">
       <data key="d8">153576007</data>
@@ -94375,7 +94364,7 @@
     <edge source="1690068402" target="276370538" id="0">
       <data key="d8">[131835265, 1167453168, 1558855505, 249018354, 1558855506]</data>
       <data key="d9">trunk</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d10">60</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -94603,7 +94592,7 @@
     <edge source="1720525825" target="9780143304" id="0">
       <data key="d8">[159986934, 607813455]</data>
       <data key="d9">residential</data>
-      <data key="d10">['60', '20']</data>
+      <data key="d10">['20', '60']</data>
       <data key="d11">['İsmayıl Məmmədov', 'Bəhruz Nuriyev']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -94818,7 +94807,7 @@
     <edge source="1754181251" target="3119071817" id="0">
       <data key="d8">[1061880081, 163958620]</data>
       <data key="d9">tertiary</data>
-      <data key="d11">['İslam Abışov küç.', 'Böyükşor']</data>
+      <data key="d11">['Böyükşor', 'İslam Abışov küç.']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">875.7538293276318</data>
@@ -95158,8 +95147,8 @@
       <data key="d11">Səməd bəy Mehmandarov küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">483.1557810939715</data>
-      <data key="d15">LINESTRING (49.9648438 40.382409, 49.9648792 40.3824693, 49.9649248 40.3825247, 49.9649798 40.3825641, 49.9650496 40.3826007, 49.965147 40.3826397, 49.9653447 40.3827039, 49.9654938 40.382755, 49.9673021 40.3833565, 49.9678612 40.3835463, 49.9680843 40.3836178, 49.968203 40.3836528, 49.9683121 40.3836754, 49.9684397 40.3836926, 49.9685709 40.383702, 49.9686983 40.383701, 49.9688018 40.3836956, 49.9689296 40.3836739, 49.9690591 40.3836509, 49.9692026 40.3836101, 49.9693145 40.3835638, 49.9694179 40.3835148, 49.9695572 40.3834334, 49.9698155 40.3832576, 49.9699126 40.3831865)</data>
+      <data key="d14">483.1557817127271</data>
+      <data key="d15">LINESTRING (49.9648438 40.382409, 49.9648792 40.3824693, 49.9649248 40.3825247, 49.9649798 40.3825641, 49.9650496 40.3826007, 49.965147 40.3826397, 49.9653447 40.3827039, 49.9654938 40.382755, 49.9671667 40.3833115, 49.9673021 40.3833565, 49.9678612 40.3835463, 49.9680843 40.3836178, 49.968203 40.3836528, 49.9683121 40.3836754, 49.9684397 40.3836926, 49.9685709 40.383702, 49.9686983 40.383701, 49.9688018 40.3836956, 49.9689296 40.3836739, 49.9690591 40.3836509, 49.9692026 40.3836101, 49.9693145 40.3835638, 49.9694179 40.3835148, 49.9695572 40.3834334, 49.9698155 40.3832576, 49.9699126 40.3831865)</data>
     </edge>
     <edge source="1754678049" target="9259581061" id="0">
       <data key="d8">163789973</data>
@@ -96531,7 +96520,7 @@
       <data key="d15">LINESTRING (49.9242404 40.4233654, 49.9241173 40.4234684, 49.9240597 40.4235429, 49.9239979 40.4236971, 49.9239066 40.4239695)</data>
     </edge>
     <edge source="1757071185" target="1757071262" id="0">
-      <data key="d8">356876634</data>
+      <data key="d8">1570328272</data>
       <data key="d9">residential</data>
       <data key="d10">50</data>
       <data key="d11">Kamil Balakişiyev küçəsi</data>
@@ -96540,7 +96529,7 @@
       <data key="d14">109.00980509226815</data>
     </edge>
     <edge source="1757071185" target="9917769697" id="0">
-      <data key="d8">164046433</data>
+      <data key="d8">[1570328264, 1570328265, 1570328266, 1570328263]</data>
       <data key="d9">residential</data>
       <data key="d11">Əli Vəliyev</data>
       <data key="d12">True</data>
@@ -96549,10 +96538,10 @@
       <data key="d15">LINESTRING (49.9245826 40.4174356, 49.9242362 40.4165242, 49.9241221 40.4162096, 49.9238066 40.4153632, 49.9237558 40.4151871, 49.9236964 40.4150224)</data>
     </edge>
     <edge source="1757071185" target="3212063216" id="0">
-      <data key="d8">[164046408, 356876634]</data>
+      <data key="d8">[164046408, 1570328267, 1570328268, 1570328269, 1570328270, 1570328271, 356876634]</data>
       <data key="d9">residential</data>
       <data key="d10">50</data>
-      <data key="d11">['Kamil Balakişiyev', 'Kamil Balakişiyev küçəsi']</data>
+      <data key="d11">['Kamil Balakişiyev küçəsi', 'Kamil Balakişiyev']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">491.03295929008857</data>
@@ -96585,7 +96574,7 @@
       <data key="d15">LINESTRING (49.9287813 40.4188382, 49.9279793 40.418997, 49.9271091 40.4191694, 49.9267084 40.4192413, 49.9266136 40.4192598, 49.9264895 40.4192841)</data>
     </edge>
     <edge source="1757071188" target="1757071241" id="0">
-      <data key="d8">164046439</data>
+      <data key="d8">1571998079</data>
       <data key="d9">residential</data>
       <data key="d10">20</data>
       <data key="d11">Tofiq Abbasov küç.</data>
@@ -96603,7 +96592,7 @@
       <data key="d15">LINESTRING (49.9315977 40.4197911, 49.9317699 40.4202179, 49.931895 40.4205518, 49.9320211 40.4208948, 49.9322038 40.4213618)</data>
     </edge>
     <edge source="1757071188" target="1757071218" id="0">
-      <data key="d8">164046439</data>
+      <data key="d8">[1571998077, 1571998078]</data>
       <data key="d9">residential</data>
       <data key="d10">20</data>
       <data key="d11">Tofiq Abbasov küç.</data>
@@ -96669,7 +96658,7 @@
       <data key="d15">LINESTRING (49.9264895 40.4192841, 49.9254306 40.4194837, 49.9252632 40.4195153)</data>
     </edge>
     <edge source="1757071204" target="1981121799" id="0">
-      <data key="d8">129737750</data>
+      <data key="d8">[1571998062, 129737750]</data>
       <data key="d9">tertiary</data>
       <data key="d10">60</data>
       <data key="d11">Şirin Mirzəyev küçəsi</data>
@@ -96707,18 +96696,8 @@
       <data key="d14">162.17984902267037</data>
       <data key="d15">LINESTRING (49.9310469 40.4198933, 49.9309027 40.4194878, 49.9308732 40.4194048, 49.9305788 40.4185789, 49.9305461 40.4184855)</data>
     </edge>
-    <edge source="1757071218" target="1757071188" id="0">
-      <data key="d8">164046439</data>
-      <data key="d9">residential</data>
-      <data key="d10">20</data>
-      <data key="d11">Tofiq Abbasov küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">47.99251099215769</data>
-      <data key="d15">LINESTRING (49.9310469 40.4198933, 49.9312203 40.4198609, 49.9315977 40.4197911)</data>
-    </edge>
     <edge source="1757071218" target="1757071284" id="0">
-      <data key="d8">164046439</data>
+      <data key="d8">[1571998076, 164046439]</data>
       <data key="d9">residential</data>
       <data key="d10">20</data>
       <data key="d11">Tofiq Abbasov küç.</data>
@@ -96726,6 +96705,16 @@
       <data key="d13">True</data>
       <data key="d14">154.06781867366746</data>
       <data key="d15">LINESTRING (49.9310469 40.4198933, 49.9303775 40.4200184, 49.9298221 40.4201222, 49.9292794 40.4202236)</data>
+    </edge>
+    <edge source="1757071218" target="1757071188" id="0">
+      <data key="d8">[1571998077, 1571998078]</data>
+      <data key="d9">residential</data>
+      <data key="d10">20</data>
+      <data key="d11">Tofiq Abbasov küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">47.99251099215769</data>
+      <data key="d15">LINESTRING (49.9310469 40.4198933, 49.9312203 40.4198609, 49.9315977 40.4197911)</data>
     </edge>
     <edge source="1757071220" target="1762873141" id="0">
       <data key="d8">499548372</data>
@@ -96847,26 +96836,6 @@
       <data key="d14">37.04063511146917</data>
       <data key="d15">LINESTRING (49.9275421 40.4245961, 49.9274849 40.4243743, 49.9274714 40.4243127, 49.9274693 40.4242681)</data>
     </edge>
-    <edge source="1757071232" target="1757071250" id="0">
-      <data key="d8">164046439</data>
-      <data key="d9">residential</data>
-      <data key="d10">20</data>
-      <data key="d11">Tofiq Abbasov küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">256.54193601707544</data>
-      <data key="d15">LINESTRING (49.9339526 40.4193286, 49.9350889 40.4191027, 49.9355932 40.4189997, 49.9359717 40.4189315, 49.9362151 40.4188877, 49.9364474 40.4188423, 49.9368845 40.4187461)</data>
-    </edge>
-    <edge source="1757071232" target="1757071241" id="0">
-      <data key="d8">164046439</data>
-      <data key="d9">residential</data>
-      <data key="d10">20</data>
-      <data key="d11">Tofiq Abbasov küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">152.87893628998975</data>
-      <data key="d15">LINESTRING (49.9339526 40.4193286, 49.9333465 40.4194494, 49.9327284 40.4195727, 49.9322056 40.4196769)</data>
-    </edge>
     <edge source="1757071232" target="1757071304" id="0">
       <data key="d8">164046440</data>
       <data key="d9">residential</data>
@@ -96884,6 +96853,26 @@
       <data key="d13">True</data>
       <data key="d14">180.8004483388164</data>
       <data key="d15">LINESTRING (49.9339526 40.4193286, 49.9340791 40.4196975, 49.9341186 40.4198128, 49.9344847 40.4209033)</data>
+    </edge>
+    <edge source="1757071232" target="1757071250" id="0">
+      <data key="d8">[1571998068, 1571998069, 1571998070, 1571998071, 1571998072]</data>
+      <data key="d9">residential</data>
+      <data key="d10">20</data>
+      <data key="d11">Tofiq Abbasov küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">256.54193601707544</data>
+      <data key="d15">LINESTRING (49.9339526 40.4193286, 49.9350889 40.4191027, 49.9355932 40.4189997, 49.9359717 40.4189315, 49.9362151 40.4188877, 49.9364474 40.4188423, 49.9368845 40.4187461)</data>
+    </edge>
+    <edge source="1757071232" target="1757071241" id="0">
+      <data key="d8">[1571998073, 1571998074, 1571998075]</data>
+      <data key="d9">residential</data>
+      <data key="d10">20</data>
+      <data key="d11">Tofiq Abbasov küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">152.87893628998975</data>
+      <data key="d15">LINESTRING (49.9339526 40.4193286, 49.9333465 40.4194494, 49.9327284 40.4195727, 49.9322056 40.4196769)</data>
     </edge>
     <edge source="1757071234" target="1757071358" id="0">
       <data key="d8">164046422</data>
@@ -96942,7 +96931,7 @@
       <data key="d15">LINESTRING (49.9282131 40.4231614, 49.9283981 40.4234061, 49.9284341 40.4234277, 49.9284772 40.4234307, 49.9286487 40.4234165, 49.9293718 40.4233397, 49.9296883 40.423303, 49.9300125 40.4232572)</data>
     </edge>
     <edge source="1757071241" target="1757071188" id="0">
-      <data key="d8">164046439</data>
+      <data key="d8">1571998079</data>
       <data key="d9">residential</data>
       <data key="d10">20</data>
       <data key="d11">Tofiq Abbasov küç.</data>
@@ -96960,7 +96949,7 @@
       <data key="d15">LINESTRING (49.9322056 40.4196769, 49.9320289 40.4191808, 49.9319477 40.4189528, 49.931712 40.4183645, 49.9316633 40.4182541)</data>
     </edge>
     <edge source="1757071241" target="1757071232" id="0">
-      <data key="d8">164046439</data>
+      <data key="d8">[1571998073, 1571998074, 1571998075]</data>
       <data key="d9">residential</data>
       <data key="d10">20</data>
       <data key="d11">Tofiq Abbasov küç.</data>
@@ -97042,7 +97031,7 @@
       <data key="d14">73.38702480752936</data>
     </edge>
     <edge source="1757071250" target="1757071232" id="0">
-      <data key="d8">164046439</data>
+      <data key="d8">[1571998068, 1571998069, 1571998070, 1571998071, 1571998072]</data>
       <data key="d9">residential</data>
       <data key="d10">20</data>
       <data key="d11">Tofiq Abbasov küç.</data>
@@ -97052,7 +97041,7 @@
       <data key="d15">LINESTRING (49.9368845 40.4187461, 49.9364474 40.4188423, 49.9362151 40.4188877, 49.9359717 40.4189315, 49.9355932 40.4189997, 49.9350889 40.4191027, 49.9339526 40.4193286)</data>
     </edge>
     <edge source="1757071262" target="1757071185" id="0">
-      <data key="d8">356876634</data>
+      <data key="d8">1570328272</data>
       <data key="d9">residential</data>
       <data key="d10">50</data>
       <data key="d11">Kamil Balakişiyev küçəsi</data>
@@ -97164,7 +97153,7 @@
       <data key="d14">239.3055741207055</data>
     </edge>
     <edge source="1757071284" target="1757071218" id="0">
-      <data key="d8">164046439</data>
+      <data key="d8">[1571998076, 164046439]</data>
       <data key="d9">residential</data>
       <data key="d10">20</data>
       <data key="d11">Tofiq Abbasov küç.</data>
@@ -97531,18 +97520,8 @@
       <data key="d13">True</data>
       <data key="d14">73.38702480752936</data>
     </edge>
-    <edge source="1757071359" target="8954058244" id="0">
-      <data key="d8">129737750</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Şirin Mirzəyev küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">152.59071628020385</data>
-      <data key="d15">LINESTRING (49.9377159 40.4185592, 49.937687 40.4184853, 49.9372019 40.4172439)</data>
-    </edge>
     <edge source="1757071359" target="1981121799" id="0">
-      <data key="d8">129737750</data>
+      <data key="d8">[1571998064, 1571998063]</data>
       <data key="d9">tertiary</data>
       <data key="d10">60</data>
       <data key="d11">Şirin Mirzəyev küçəsi</data>
@@ -97550,6 +97529,16 @@
       <data key="d13">True</data>
       <data key="d14">121.41818869272383</data>
       <data key="d15">LINESTRING (49.9377159 40.4185592, 49.9378911 40.4190076, 49.9381249 40.4196058)</data>
+    </edge>
+    <edge source="1757071359" target="8954058244" id="0">
+      <data key="d8">[1571998065, 1571998066]</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Şirin Mirzəyev küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">152.59071628020385</data>
+      <data key="d15">LINESTRING (49.9377159 40.4185592, 49.937687 40.4184853, 49.9372019 40.4172439)</data>
     </edge>
     <edge source="1757092311" target="10037863666" id="0">
       <data key="d8">1096104789</data>
@@ -100156,7 +100145,7 @@
       <data key="d15">LINESTRING (49.815383 40.3620137, 49.8154721 40.3619607, 49.8155533 40.3619032, 49.8167888 40.3608197)</data>
     </edge>
     <edge source="1771403299" target="13917164742" id="0">
-      <data key="d8">179959108</data>
+      <data key="d8">1570362538</data>
       <data key="d9">primary</data>
       <data key="d17">3</data>
       <data key="d11">Həsən bəy Zərdabi prospekti</data>
@@ -100324,16 +100313,6 @@
       <data key="d14">90.84164559776414</data>
       <data key="d15">LINESTRING (49.8585681 40.37741, 49.8584146 40.3780805, 49.8584005 40.3781394, 49.8583838 40.3782148)</data>
     </edge>
-    <edge source="1772368700" target="1311583619" id="0">
-      <data key="d8">493999303</data>
-      <data key="d9">primary</data>
-      <data key="d10">60</data>
-      <data key="d11">Abdulla Şaiq küçəsi</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">124.1310326935149</data>
-      <data key="d15">LINESTRING (49.8242302 40.3816647, 49.8237341 40.3823947, 49.8235907 40.382668)</data>
-    </edge>
     <edge source="1772368700" target="280214260" id="0">
       <data key="d8">700512595</data>
       <data key="d9">primary_link</data>
@@ -100352,8 +100331,18 @@
       <data key="d14">93.23540095926148</data>
       <data key="d15">LINESTRING (49.8242302 40.3816647, 49.8242997 40.3816792, 49.8252922 40.3818852)</data>
     </edge>
+    <edge source="1772368700" target="1311583619" id="0">
+      <data key="d8">1567948912</data>
+      <data key="d9">primary</data>
+      <data key="d10">60</data>
+      <data key="d11">Abdulla Şaiq küçəsi</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">124.1310326935149</data>
+      <data key="d15">LINESTRING (49.8242302 40.3816647, 49.8237341 40.3823947, 49.8235907 40.382668)</data>
+    </edge>
     <edge source="1772368820" target="9807258008" id="0">
-      <data key="d8">32720331</data>
+      <data key="d8">1568340387</data>
       <data key="d9">primary</data>
       <data key="d11">İnşaatçılar prospekti</data>
       <data key="d12">True</data>
@@ -103670,7 +103659,7 @@
     <edge source="1785632462" target="1785632480" id="0">
       <data key="d8">[167159901, 1125839726]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Sabit Rəhman', 'Maqsud Əlizadə']</data>
+      <data key="d11">['Maqsud Əlizadə', 'Sabit Rəhman']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">173.469956904338</data>
@@ -103804,7 +103793,7 @@
     <edge source="1785632480" target="1785632462" id="0">
       <data key="d8">[167159901, 1125839726]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Sabit Rəhman', 'Maqsud Əlizadə']</data>
+      <data key="d11">['Maqsud Əlizadə', 'Sabit Rəhman']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">173.469956904338</data>
@@ -113665,7 +113654,7 @@
     <edge source="1834936247" target="3670332510" id="0">
       <data key="d8">[171687082, 171687077]</data>
       <data key="d9">tertiary</data>
-      <data key="d11">['Kazımağa Kərimov küçəsi', 'Şahin Səmədov küçəsi']</data>
+      <data key="d11">['Şahin Səmədov küçəsi', 'Kazımağa Kərimov küçəsi']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">416.7016621356966</data>
@@ -116002,7 +115991,7 @@
     <edge source="1844004126" target="1844004140" id="0">
       <data key="d8">[1173973873, 173622396]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Ağasadıq Gəraybəyli küçəsi', 'Kral Hüseyn küçəsi']</data>
+      <data key="d11">['Kral Hüseyn küçəsi', 'Ağasadıq Gəraybəyli küçəsi']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">312.32683087403393</data>
@@ -116011,7 +116000,7 @@
     <edge source="1844004140" target="1844004150" id="0">
       <data key="d8">[173622390, 173622391]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Ağasadıq Gəraybəyli küçəsi', 'Hacı Murad']</data>
+      <data key="d11">['Hacı Murad', 'Ağasadıq Gəraybəyli küçəsi']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">426.5931204537338</data>
@@ -116028,7 +116017,7 @@
     <edge source="1844004140" target="1844004126" id="0">
       <data key="d8">[1173973873, 173622396]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Ağasadıq Gəraybəyli küçəsi', 'Kral Hüseyn küçəsi']</data>
+      <data key="d11">['Kral Hüseyn küçəsi', 'Ağasadıq Gəraybəyli küçəsi']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">312.32683087403404</data>
@@ -116169,7 +116158,7 @@
       <data key="d14">26.67805981625549</data>
     </edge>
     <edge source="1846519228" target="2022950739" id="0">
-      <data key="d8">173904099</data>
+      <data key="d8">1571323470</data>
       <data key="d9">unclassified</data>
       <data key="d10">60</data>
       <data key="d11">Şərq küç</data>
@@ -116179,14 +116168,14 @@
       <data key="d15">LINESTRING (49.9653926 40.3954218, 49.9653901 40.3955873, 49.9654069 40.3968299, 49.9654132 40.3969894, 49.9654433 40.3973273)</data>
     </edge>
     <edge source="1846519245" target="2022950739" id="0">
-      <data key="d8">173904099</data>
+      <data key="d8">[173904099, 1571323470]</data>
       <data key="d9">unclassified</data>
       <data key="d10">60</data>
       <data key="d11">Şərq küç</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">232.9180580635359</data>
-      <data key="d15">LINESTRING (49.9657905 40.399398, 49.9657559 40.3993574, 49.9657348 40.399317, 49.9657185 40.3992721, 49.9657036 40.3992053, 49.9656892 40.39912, 49.9655418 40.3980314, 49.9654433 40.3973273)</data>
+      <data key="d14">232.9180581111205</data>
+      <data key="d15">LINESTRING (49.9657905 40.399398, 49.9657559 40.3993574, 49.9657348 40.399317, 49.9657185 40.3992721, 49.9657036 40.3992053, 49.9656892 40.39912, 49.9656468 40.398807, 49.9655418 40.3980314, 49.9654433 40.3973273)</data>
     </edge>
     <edge source="1846519245" target="3601964722" id="0">
       <data key="d8">173904099</data>
@@ -117036,7 +117025,7 @@
       <data key="d15">LINESTRING (49.8319278 40.3767842, 49.8318081 40.3767569, 49.8317805 40.3767506, 49.831405 40.3766566, 49.8307837 40.3765034)</data>
     </edge>
     <edge source="1846847211" target="4880876055" id="0">
-      <data key="d8">729910783</data>
+      <data key="d8">[1567965730, 729910783]</data>
       <data key="d9">primary</data>
       <data key="d17">6</data>
       <data key="d10">60</data>
@@ -117211,23 +117200,23 @@
       <data key="d14">42.67003622077431</data>
       <data key="d15">LINESTRING (49.940585 40.4261633, 49.9405016 40.4261697, 49.9403342 40.4261635, 49.9400834 40.4261401)</data>
     </edge>
-    <edge source="1850355756" target="3621209892" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">227.2010618648711</data>
-      <data key="d15">LINESTRING (49.940585 40.4261633, 49.9405982 40.4261881, 49.9406281 40.4262128, 49.9406706 40.4262351, 49.9407206 40.4262507, 49.9407885 40.4262647, 49.9418351 40.4264161, 49.943091 40.4265876, 49.943177 40.4266002)</data>
-    </edge>
     <edge source="1850355756" target="1981121885" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">[1565368232, 1565368233]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">272.188540071403</data>
       <data key="d15">LINESTRING (49.940585 40.4261633, 49.9405807 40.4261198, 49.94059 40.4260696, 49.9407389 40.4254724, 49.9408811 40.4248639, 49.940991 40.4243453, 49.9410394 40.4241126, 49.9410742 40.4239717, 49.9411436 40.4237547)</data>
+    </edge>
+    <edge source="1850355756" target="3621209892" id="0">
+      <data key="d8">[1565368234, 1565368235]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">227.2010618648711</data>
+      <data key="d15">LINESTRING (49.940585 40.4261633, 49.9405982 40.4261881, 49.9406281 40.4262128, 49.9406706 40.4262351, 49.9407206 40.4262507, 49.9407885 40.4262647, 49.9418351 40.4264161, 49.943091 40.4265876, 49.943177 40.4266002)</data>
     </edge>
     <edge source="1850355770" target="1850355821" id="0">
       <data key="d8">174338587</data>
@@ -117369,15 +117358,6 @@
       <data key="d14">135.10933401496965</data>
       <data key="d15">LINESTRING (49.9412624 40.4230821, 49.9409739 40.4230888, 49.9408221 40.4231008, 49.9406129 40.423109, 49.9404378 40.4231175, 49.9402843 40.4231355, 49.939819 40.4232039, 49.9396792 40.423216)</data>
     </edge>
-    <edge source="1850355874" target="1981121885" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">75.65193833267963</data>
-      <data key="d15">LINESTRING (49.9412624 40.4230821, 49.9412513 40.4232417, 49.9412459 40.4233203, 49.9412352 40.4234071, 49.9412218 40.4234714, 49.9411976 40.4235715, 49.9411436 40.4237547)</data>
-    </edge>
     <edge source="1850355874" target="1850355955" id="0">
       <data key="d8">702177521</data>
       <data key="d9">tertiary</data>
@@ -117386,6 +117366,15 @@
       <data key="d13">True</data>
       <data key="d14">20.08458212516379</data>
       <data key="d15">LINESTRING (49.9412624 40.4230821, 49.9412873 40.4229946, 49.9413116 40.4229508, 49.9413451 40.4229155)</data>
+    </edge>
+    <edge source="1850355874" target="1981121885" id="0">
+      <data key="d8">1565368231</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">75.65193833267963</data>
+      <data key="d15">LINESTRING (49.9412624 40.4230821, 49.9412513 40.4232417, 49.9412459 40.4233203, 49.9412352 40.4234071, 49.9412218 40.4234714, 49.9411976 40.4235715, 49.9411436 40.4237547)</data>
     </edge>
     <edge source="1850355876" target="1915241962" id="0">
       <data key="d8">1164544900</data>
@@ -122230,7 +122219,7 @@
       <data key="d15">LINESTRING (49.948943 40.4269789, 49.9491148 40.4269822, 49.9492186 40.4270076, 49.9493093 40.4270597, 49.9499375 40.4275839, 49.9504162 40.427881, 49.9507202 40.4280343, 49.9511631 40.4282414, 49.9513212 40.4283638)</data>
     </edge>
     <edge source="1885271253" target="10827884795" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">1565368241</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
@@ -122248,7 +122237,7 @@
       <data key="d15">LINESTRING (49.9487184 40.427471, 49.9488932 40.4272838, 49.9489385 40.4272223, 49.9489603 40.4271676)</data>
     </edge>
     <edge source="1885271253" target="3621209897" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">[1565368240, 1565368238, 1565368239]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
@@ -122429,23 +122418,23 @@
       <data key="d14">43.410481248275886</data>
       <data key="d15">LINESTRING (49.9509187 40.4286054, 49.9510869 40.4284963, 49.9513212 40.4283638)</data>
     </edge>
-    <edge source="1885271273" target="10059398589" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">227.79675843055466</data>
-      <data key="d15">LINESTRING (49.9509187 40.4286054, 49.950997 40.4286516, 49.9511803 40.4287622, 49.9518156 40.4292067, 49.9527229 40.429814, 49.9529336 40.4299626)</data>
-    </edge>
     <edge source="1885271273" target="10827884795" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">1565368242</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">202.48337303013363</data>
       <data key="d15">LINESTRING (49.9509187 40.4286054, 49.9507798 40.4285362, 49.9505424 40.4284345, 49.950171 40.4282799, 49.9499323 40.4281677, 49.9497633 40.4280891, 49.9496198 40.4280145, 49.9494694 40.4279318, 49.9489273 40.4276037)</data>
+    </edge>
+    <edge source="1885271273" target="10059398589" id="0">
+      <data key="d8">[1565368243, 1565368244]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">227.79675843055466</data>
+      <data key="d15">LINESTRING (49.9509187 40.4286054, 49.950997 40.4286516, 49.9511803 40.4287622, 49.9518156 40.4292067, 49.9527229 40.429814, 49.9529336 40.4299626)</data>
     </edge>
     <edge source="1885271288" target="2022951186" id="0">
       <data key="d8">193255046</data>
@@ -122607,14 +122596,14 @@
       <data key="d15">LINESTRING (49.9547449 40.4316831, 49.9544122 40.4312259, 49.9543735 40.4311649, 49.9543264 40.4311007)</data>
     </edge>
     <edge source="1885271302" target="1285927032" id="0">
-      <data key="d8">[1100864780, 1100864781]</data>
+      <data key="d8">[1567278626, 1100864780, 1100864781, 1565771728, 1565272853]</data>
       <data key="d9">secondary</data>
       <data key="d17">4</data>
       <data key="d11">Yavər Əliyev küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">197.9508550590321</data>
-      <data key="d15">LINESTRING (49.9547449 40.4316831, 49.9548215 40.431797, 49.9550963 40.432164, 49.9556605 40.4329677, 49.955864 40.4332461)</data>
+      <data key="d14">197.95085560408563</data>
+      <data key="d15">LINESTRING (49.9547449 40.4316831, 49.9548215 40.431797, 49.9550963 40.432164, 49.9552963 40.4324489, 49.9554384 40.4326514, 49.9556605 40.4329677, 49.955864 40.4332461)</data>
     </edge>
     <edge source="1885271304" target="2022951279" id="0">
       <data key="d8">1098379825</data>
@@ -123287,16 +123276,6 @@
       <data key="d14">20.023157429325437</data>
       <data key="d15">LINESTRING (49.821191 40.427397, 49.8212329 40.4273901, 49.8213009 40.4273635, 49.8213878 40.4273036)</data>
     </edge>
-    <edge source="1900229028" target="632725448" id="0">
-      <data key="d8">[1279889240, 49799946]</data>
-      <data key="d9">primary</data>
-      <data key="d17">4</data>
-      <data key="d11">Cəfər Cabbarlı küçəsi</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">130.41587305646098</data>
-      <data key="d15">LINESTRING (49.8289838 40.3839063, 49.8290222 40.3838086, 49.8290281 40.3837936, 49.8293334 40.3830001, 49.8294146 40.3827803)</data>
-    </edge>
     <edge source="1900229028" target="1311583595" id="0">
       <data key="d8">297585618</data>
       <data key="d9">residential</data>
@@ -123305,6 +123284,16 @@
       <data key="d13">False</data>
       <data key="d14">129.15344896717085</data>
       <data key="d15">LINESTRING (49.8289838 40.3839063, 49.8288755 40.3838804, 49.8288464 40.3838734, 49.8275293 40.3835576)</data>
+    </edge>
+    <edge source="1900229028" target="632725448" id="0">
+      <data key="d8">[1279889240, 1567948903]</data>
+      <data key="d9">primary</data>
+      <data key="d17">4</data>
+      <data key="d11">Cəfər Cabbarlı küçəsi</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">130.41587305646098</data>
+      <data key="d15">LINESTRING (49.8289838 40.3839063, 49.8290222 40.3838086, 49.8290281 40.3837936, 49.8293334 40.3830001, 49.8294146 40.3827803)</data>
     </edge>
     <edge source="1900237793" target="1296844022" id="0">
       <data key="d8">116321416</data>
@@ -123949,8 +123938,8 @@
       <data key="d11">Ramiz Qəmbərov küç.</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">370.7713091372788</data>
-      <data key="d15">LINESTRING (49.9592476 40.4131254, 49.9591955 40.4131998, 49.9590263 40.4134414, 49.9589655 40.4135307, 49.9583694 40.4144067, 49.9580469 40.4148719, 49.9577378 40.4153178, 49.9571887 40.4160681)</data>
+      <data key="d14">370.91415993772506</data>
+      <data key="d15">LINESTRING (49.9592476 40.4131254, 49.9591955 40.4131998, 49.9590263 40.4134414, 49.9589655 40.4135307, 49.9583694 40.4144067, 49.9580469 40.4148719, 49.9577378 40.4153178, 49.957315 40.4159131, 49.9571926 40.4160711)</data>
     </edge>
     <edge source="1913855675" target="3638260073" id="0">
       <data key="d8">323755187</data>
@@ -124327,7 +124316,7 @@
     </edge>
     <edge source="1933521328" target="3677668000" id="0">
       <data key="d8">[363600072, 182987153]</data>
-      <data key="d9">['residential', 'living_street']</data>
+      <data key="d9">['living_street', 'residential']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">949.1538139366866</data>
@@ -125516,7 +125505,7 @@
     <edge source="1947080283" target="1947080310" id="0">
       <data key="d8">[248983425, 184252029]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Zəki Məmmədov', 'Zəki Məmmədov küçəsi']</data>
+      <data key="d11">['Zəki Məmmədov küçəsi', 'Zəki Məmmədov']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">732.6491667035484</data>
@@ -125762,7 +125751,7 @@
     <edge source="1947080310" target="1947080283" id="0">
       <data key="d8">[248983425, 184252029]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Zəki Məmmədov', 'Zəki Məmmədov küçəsi']</data>
+      <data key="d11">['Zəki Məmmədov küçəsi', 'Zəki Məmmədov']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">732.6491667035483</data>
@@ -126747,7 +126736,7 @@
     <edge source="1969380375" target="1646580488" id="0">
       <data key="d8">[151811645, 1100687310]</data>
       <data key="d9">tertiary</data>
-      <data key="d11">['Yusif Eyvazov küç.', 'Yusif Eyvazov küçəsi']</data>
+      <data key="d11">['Yusif Eyvazov küçəsi', 'Yusif Eyvazov küç.']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">80.49083623973588</data>
@@ -129588,14 +129577,6 @@
       <data key="d13">False</data>
       <data key="d14">86.50025032779203</data>
     </edge>
-    <edge source="1969562131" target="1969562141" id="0">
-      <data key="d8">362776121</data>
-      <data key="d9">residential</data>
-      <data key="d11">İlqar Abbasov küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">33.78271619762382</data>
-    </edge>
     <edge source="1969562131" target="1969562130" id="0">
       <data key="d8">362790315</data>
       <data key="d9">living_street</data>
@@ -129604,6 +129585,14 @@
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">11.289287571968387</data>
+    </edge>
+    <edge source="1969562131" target="1969562141" id="0">
+      <data key="d8">1565268778</data>
+      <data key="d9">residential</data>
+      <data key="d11">İlqar Abbasov küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">33.78271619762382</data>
     </edge>
     <edge source="1969562135" target="1969562117" id="0">
       <data key="d8">186270466</data>
@@ -129619,21 +129608,21 @@
       <data key="d13">False</data>
       <data key="d14">56.258764670973605</data>
     </edge>
-    <edge source="1969562141" target="1969562131" id="0">
-      <data key="d8">362776121</data>
-      <data key="d9">residential</data>
-      <data key="d11">İlqar Abbasov küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">33.78271619762382</data>
-    </edge>
     <edge source="1969562141" target="1969562152" id="0">
-      <data key="d8">362776121</data>
+      <data key="d8">1565268777</data>
       <data key="d9">residential</data>
       <data key="d11">İlqar Abbasov küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">43.025859451103365</data>
+    </edge>
+    <edge source="1969562141" target="1969562131" id="0">
+      <data key="d8">1565268778</data>
+      <data key="d9">residential</data>
+      <data key="d11">İlqar Abbasov küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">33.78271619762382</data>
     </edge>
     <edge source="1969562141" target="1969562219" id="0">
       <data key="d8">186270419</data>
@@ -129682,21 +129671,21 @@
       <data key="d14">40.8675068624225</data>
       <data key="d15">LINESTRING (49.930055 40.3750223, 49.9299896 40.3748889, 49.9299213 40.374825, 49.9297851 40.374727)</data>
     </edge>
-    <edge source="1969562152" target="1969562141" id="0">
-      <data key="d8">362776121</data>
-      <data key="d9">residential</data>
-      <data key="d11">İlqar Abbasov küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">43.025859451103365</data>
-    </edge>
     <edge source="1969562152" target="1969562168" id="0">
-      <data key="d8">362776121</data>
+      <data key="d8">1565268776</data>
       <data key="d9">residential</data>
       <data key="d11">İlqar Abbasov küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">99.15026964082921</data>
+    </edge>
+    <edge source="1969562152" target="1969562141" id="0">
+      <data key="d8">1565268777</data>
+      <data key="d9">residential</data>
+      <data key="d11">İlqar Abbasov küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">43.025859451103365</data>
     </edge>
     <edge source="1969562152" target="1969562187" id="0">
       <data key="d8">186270468</data>
@@ -129844,21 +129833,21 @@
       <data key="d13">True</data>
       <data key="d14">33.206313910745536</data>
     </edge>
-    <edge source="1969562168" target="1969562152" id="0">
-      <data key="d8">362776121</data>
-      <data key="d9">residential</data>
-      <data key="d11">İlqar Abbasov küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">99.15026964082921</data>
-    </edge>
     <edge source="1969562168" target="1969562172" id="0">
-      <data key="d8">362776121</data>
+      <data key="d8">1565268775</data>
       <data key="d9">residential</data>
       <data key="d11">İlqar Abbasov küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">34.845743659130825</data>
+    </edge>
+    <edge source="1969562168" target="1969562152" id="0">
+      <data key="d8">1565268776</data>
+      <data key="d9">residential</data>
+      <data key="d11">İlqar Abbasov küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">99.15026964082921</data>
     </edge>
     <edge source="1969562171" target="1969562201" id="0">
       <data key="d8">186270512</data>
@@ -129887,7 +129876,7 @@
       <data key="d15">LINESTRING (49.9354332 40.3753347, 49.9353741 40.3752411, 49.9353821 40.3751768, 49.9354441 40.3751273, 49.9355385 40.3750981, 49.9358753 40.3749917, 49.9358981 40.3749745, 49.9358988 40.3749322, 49.9356773 40.3745614)</data>
     </edge>
     <edge source="1969562172" target="1969562168" id="0">
-      <data key="d8">362776121</data>
+      <data key="d8">1565268775</data>
       <data key="d9">residential</data>
       <data key="d11">İlqar Abbasov küçəsi</data>
       <data key="d12">False</data>
@@ -129895,7 +129884,7 @@
       <data key="d14">34.845743659130825</data>
     </edge>
     <edge source="1969562172" target="1969562174" id="0">
-      <data key="d8">362776121</data>
+      <data key="d8">1565268779</data>
       <data key="d9">residential</data>
       <data key="d11">İlqar Abbasov küçəsi</data>
       <data key="d12">False</data>
@@ -129910,14 +129899,6 @@
       <data key="d13">False</data>
       <data key="d14">163.23426368605482</data>
     </edge>
-    <edge source="1969562174" target="1969562172" id="0">
-      <data key="d8">362776121</data>
-      <data key="d9">residential</data>
-      <data key="d11">İlqar Abbasov küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">5.199050674312152</data>
-    </edge>
     <edge source="1969562174" target="1969562178" id="0">
       <data key="d8">362776121</data>
       <data key="d9">residential</data>
@@ -129925,6 +129906,14 @@
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">29.226895863787647</data>
+    </edge>
+    <edge source="1969562174" target="1969562172" id="0">
+      <data key="d8">1565268779</data>
+      <data key="d9">residential</data>
+      <data key="d11">İlqar Abbasov küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">5.199050674312152</data>
     </edge>
     <edge source="1969562177" target="1969562183" id="0">
       <data key="d8">186270340</data>
@@ -133036,18 +133025,8 @@
       <data key="d13">True</data>
       <data key="d14">74.45743266511623</data>
     </edge>
-    <edge source="1981121799" target="1757071359" id="0">
-      <data key="d8">129737750</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Şirin Mirzəyev küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">121.41818869272383</data>
-      <data key="d15">LINESTRING (49.9381249 40.4196058, 49.9378911 40.4190076, 49.9377159 40.4185592)</data>
-    </edge>
     <edge source="1981121799" target="1757071204" id="0">
-      <data key="d8">129737750</data>
+      <data key="d8">[1571998062, 129737750]</data>
       <data key="d9">tertiary</data>
       <data key="d10">60</data>
       <data key="d11">Şirin Mirzəyev küçəsi</data>
@@ -133055,6 +133034,16 @@
       <data key="d13">True</data>
       <data key="d14">60.859658831818095</data>
       <data key="d15">LINESTRING (49.9381249 40.4196058, 49.9381582 40.4196911, 49.9382547 40.419938, 49.9383299 40.4201304)</data>
+    </edge>
+    <edge source="1981121799" target="1757071359" id="0">
+      <data key="d8">[1571998064, 1571998063]</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Şirin Mirzəyev küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">121.41818869272383</data>
+      <data key="d15">LINESTRING (49.9381249 40.4196058, 49.9378911 40.4190076, 49.9377159 40.4185592)</data>
     </edge>
     <edge source="1981121803" target="1981121799" id="0">
       <data key="d8">187410198</data>
@@ -133507,24 +133496,6 @@
       <data key="d14">163.02455924542733</data>
       <data key="d15">LINESTRING (49.9392249 40.4236576, 49.9393067 40.4236542, 49.9393884 40.4236506, 49.9401025 40.4236691, 49.9405056 40.4236909, 49.9408141 40.4237205, 49.9411436 40.4237547)</data>
     </edge>
-    <edge source="1981121885" target="1850355756" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">272.18854007140305</data>
-      <data key="d15">LINESTRING (49.9411436 40.4237547, 49.9410742 40.4239717, 49.9410394 40.4241126, 49.940991 40.4243453, 49.9408811 40.4248639, 49.9407389 40.4254724, 49.94059 40.4260696, 49.9405807 40.4261198, 49.940585 40.4261633)</data>
-    </edge>
-    <edge source="1981121885" target="1850355874" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">75.65193833267963</data>
-      <data key="d15">LINESTRING (49.9411436 40.4237547, 49.9411976 40.4235715, 49.9412218 40.4234714, 49.9412352 40.4234071, 49.9412459 40.4233203, 49.9412513 40.4232417, 49.9412624 40.4230821)</data>
-    </edge>
     <edge source="1981121885" target="1981121883" id="0">
       <data key="d8">1079304891</data>
       <data key="d9">living_street</data>
@@ -133533,6 +133504,24 @@
       <data key="d13">False</data>
       <data key="d14">163.02455924542738</data>
       <data key="d15">LINESTRING (49.9411436 40.4237547, 49.9408141 40.4237205, 49.9405056 40.4236909, 49.9401025 40.4236691, 49.9393884 40.4236506, 49.9393067 40.4236542, 49.9392249 40.4236576)</data>
+    </edge>
+    <edge source="1981121885" target="1850355874" id="0">
+      <data key="d8">1565368231</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">75.65193833267963</data>
+      <data key="d15">LINESTRING (49.9411436 40.4237547, 49.9411976 40.4235715, 49.9412218 40.4234714, 49.9412352 40.4234071, 49.9412459 40.4233203, 49.9412513 40.4232417, 49.9412624 40.4230821)</data>
+    </edge>
+    <edge source="1981121885" target="1850355756" id="0">
+      <data key="d8">[1565368232, 1565368233]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">272.18854007140305</data>
+      <data key="d15">LINESTRING (49.9411436 40.4237547, 49.9410742 40.4239717, 49.9410394 40.4241126, 49.940991 40.4243453, 49.9408811 40.4248639, 49.9407389 40.4254724, 49.94059 40.4260696, 49.9405807 40.4261198, 49.940585 40.4261633)</data>
     </edge>
     <edge source="1981121888" target="1981121875" id="0">
       <data key="d8">187410191</data>
@@ -134588,8 +134577,8 @@
       <data key="d11">İlham Hacıyev küç.</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">238.77291472838044</data>
-      <data key="d15">LINESTRING (49.8617327 40.4332013, 49.8606618 40.433221, 49.8589124 40.4332532)</data>
+      <data key="d14">238.77291476203942</data>
+      <data key="d15">LINESTRING (49.8617327 40.4332013, 49.8606618 40.433221, 49.8605093 40.4332238, 49.8589124 40.4332532)</data>
     </edge>
     <edge source="2021124705" target="2021124710" id="0">
       <data key="d8">595128671</data>
@@ -134625,8 +134614,8 @@
       <data key="d11">İlham Hacıyev küç.</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">238.77291472838044</data>
-      <data key="d15">LINESTRING (49.8589124 40.4332532, 49.8606618 40.433221, 49.8617327 40.4332013)</data>
+      <data key="d14">238.77291476203942</data>
+      <data key="d15">LINESTRING (49.8589124 40.4332532, 49.8605093 40.4332238, 49.8606618 40.433221, 49.8617327 40.4332013)</data>
     </edge>
     <edge source="2021124709" target="2021124708" id="0">
       <data key="d8">595128671</data>
@@ -135226,8 +135215,17 @@
       <data key="d13">True</data>
       <data key="d14">59.872116146498456</data>
     </edge>
+    <edge source="2022950739" target="2022950731" id="0">
+      <data key="d8">191709781</data>
+      <data key="d9">living_street</data>
+      <data key="d10">30</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">297.73319817197705</data>
+      <data key="d15">LINESTRING (49.9654433 40.3973273, 49.965688 40.3973283, 49.9658203 40.3973322, 49.9660617 40.3973546, 49.9661878 40.3973649, 49.9671276 40.3973885, 49.9671896 40.3973771, 49.9672426 40.3973483, 49.967272 40.3973014, 49.967333 40.3965672, 49.9673537 40.3964797, 49.9673842 40.3964167, 49.9674523 40.3963566, 49.9676949 40.396158)</data>
+    </edge>
     <edge source="2022950739" target="1846519228" id="0">
-      <data key="d8">173904099</data>
+      <data key="d8">1571323470</data>
       <data key="d9">unclassified</data>
       <data key="d10">60</data>
       <data key="d11">Şərq küç</data>
@@ -135237,23 +135235,14 @@
       <data key="d15">LINESTRING (49.9654433 40.3973273, 49.9654132 40.3969894, 49.9654069 40.3968299, 49.9653901 40.3955873, 49.9653926 40.3954218)</data>
     </edge>
     <edge source="2022950739" target="1846519245" id="0">
-      <data key="d8">173904099</data>
+      <data key="d8">[173904099, 1571323470]</data>
       <data key="d9">unclassified</data>
       <data key="d10">60</data>
       <data key="d11">Şərq küç</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
-      <data key="d14">232.91805806353594</data>
-      <data key="d15">LINESTRING (49.9654433 40.3973273, 49.9655418 40.3980314, 49.9656892 40.39912, 49.9657036 40.3992053, 49.9657185 40.3992721, 49.9657348 40.399317, 49.9657559 40.3993574, 49.9657905 40.399398)</data>
-    </edge>
-    <edge source="2022950739" target="2022950731" id="0">
-      <data key="d8">191709781</data>
-      <data key="d9">living_street</data>
-      <data key="d10">30</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">297.73319817197705</data>
-      <data key="d15">LINESTRING (49.9654433 40.3973273, 49.965688 40.3973283, 49.9658203 40.3973322, 49.9660617 40.3973546, 49.9661878 40.3973649, 49.9671276 40.3973885, 49.9671896 40.3973771, 49.9672426 40.3973483, 49.967272 40.3973014, 49.967333 40.3965672, 49.9673537 40.3964797, 49.9673842 40.3964167, 49.9674523 40.3963566, 49.9676949 40.396158)</data>
+      <data key="d14">232.9180581111205</data>
+      <data key="d15">LINESTRING (49.9654433 40.3973273, 49.9655418 40.3980314, 49.9656468 40.398807, 49.9656892 40.39912, 49.9657036 40.3992053, 49.9657185 40.3992721, 49.9657348 40.399317, 49.9657559 40.3993574, 49.9657905 40.399398)</data>
     </edge>
     <edge source="2022950743" target="1969380385" id="0">
       <data key="d8">186251259</data>
@@ -144846,7 +144835,7 @@
       <data key="d8">[1127697816, 1414682547, 193388269]</data>
       <data key="d9">residential</data>
       <data key="d10">50</data>
-      <data key="d11">['Mir Cəlal', '20 Yanvar']</data>
+      <data key="d11">['20 Yanvar', 'Mir Cəlal']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">416.3924993750494</data>
@@ -146335,7 +146324,7 @@
     <edge source="2066340863" target="9735973039" id="0">
       <data key="d8">[1513658293, 1513658294]</data>
       <data key="d9">['living_street', 'unclassified']</data>
-      <data key="d11">['Maralgöl', 'Maralgöl küç.']</data>
+      <data key="d11">['Maralgöl küç.', 'Maralgöl']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">118.96425567976266</data>
@@ -147877,14 +147866,14 @@
       <data key="d14">15.393594012108386</data>
     </edge>
     <edge source="2214771819" target="1490151990" id="0">
-      <data key="d8">1374235866</data>
+      <data key="d8">[1374235866, 1566892930]</data>
       <data key="d9">residential</data>
       <data key="d17">1</data>
       <data key="d11">Süleyman Rüstəm küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">133.4603275745723</data>
-      <data key="d15">LINESTRING (49.8459774 40.3782111, 49.8460006 40.3783295, 49.8460037 40.3783493, 49.8460138 40.378483, 49.8460135 40.3785074, 49.8460119 40.3786374, 49.8459838 40.3789177, 49.845953 40.3790774, 49.8458785 40.3793207, 49.8458525 40.3793981)</data>
+      <data key="d14">133.46032862520818</data>
+      <data key="d15">LINESTRING (49.8459774 40.3782111, 49.8460006 40.3783295, 49.8460037 40.3783493, 49.8460138 40.378483, 49.8460135 40.3785074, 49.8460119 40.3786374, 49.8459944 40.3788115, 49.8459838 40.3789177, 49.845953 40.3790774, 49.8458785 40.3793207, 49.8458525 40.3793981)</data>
     </edge>
     <edge source="2214771819" target="277363537" id="0">
       <data key="d8">[1548185216, 1548185217, 1548185218]</data>
@@ -148455,14 +148444,14 @@
       <data key="d14">4.394907122239147</data>
     </edge>
     <edge source="2290884717" target="4702367253" id="0">
-      <data key="d8">[1548436682, 1548436683, 1548436684]</data>
+      <data key="d8">[1567977569, 1548436682, 1548436683, 1548436684]</data>
       <data key="d9">primary</data>
       <data key="d17">2</data>
       <data key="d11">Niyazi küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">138.59916663740594</data>
-      <data key="d15">LINESTRING (49.8346912 40.3626511, 49.8346294 40.3626645, 49.834549 40.3626866, 49.8343512 40.3627577, 49.8341755 40.3628219, 49.8340783 40.362852, 49.833991 40.3628784, 49.833559 40.3629965, 49.8331686 40.3631032)</data>
+      <data key="d14">138.59916989491998</data>
+      <data key="d15">LINESTRING (49.8346912 40.3626511, 49.8346294 40.3626645, 49.834549 40.3626866, 49.8343512 40.3627577, 49.8343048 40.3627747, 49.8341755 40.3628219, 49.8340783 40.362852, 49.833991 40.3628784, 49.833559 40.3629965, 49.8331686 40.3631032)</data>
     </edge>
     <edge source="2290884773" target="2557092456" id="0">
       <data key="d8">[1550486464, 1550486459, 1550486460, 1550486461, 1550486462, 1550486463]</data>
@@ -149808,7 +149797,7 @@
     <edge source="2557154983" target="2557135655" id="0">
       <data key="d8">[1094965066, 1094965060, 926192533]</data>
       <data key="d9">trunk</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d11">Dənizkənarı küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -150528,6 +150517,7 @@
     <edge source="2558759808" target="1494327479" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -150538,6 +150528,7 @@
     <edge source="2558759808" target="3636135165" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -150973,8 +150964,8 @@
       <data key="d11">Ramiz Qəmbərov</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
-      <data key="d14">193.81775743240854</data>
-      <data key="d15">LINESTRING (49.9560164 40.4177072, 49.9565522 40.4169461, 49.9568236 40.4165532, 49.956913 40.4164346, 49.9571111 40.4161766)</data>
+      <data key="d14">195.81005977891712</data>
+      <data key="d15">LINESTRING (49.9560164 40.4177072, 49.9565522 40.4169461, 49.9568236 40.4165532, 49.956913 40.4164346, 49.9571057 40.416188, 49.9571258 40.4161624)</data>
     </edge>
     <edge source="2591206270" target="2591206272" id="0">
       <data key="d8">626921565</data>
@@ -154004,7 +153995,7 @@
     <edge source="2781838366" target="366835345" id="0">
       <data key="d8">[174748837, 1549721542, 1549721543]</data>
       <data key="d9">secondary</data>
-      <data key="d11">['Xətai prospekti', 'Süleyman Rəhimov küçəsi']</data>
+      <data key="d11">['Süleyman Rəhimov küçəsi', 'Xətai prospekti']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">388.86568502541127</data>
@@ -155768,15 +155759,6 @@
       <data key="d14">126.07700808434728</data>
       <data key="d15">LINESTRING (49.8210604 40.379429, 49.8207932 40.3795062, 49.8205254 40.3795863, 49.8197804 40.3798093, 49.8196742 40.3798419)</data>
     </edge>
-    <edge source="2929197018" target="2929197017" id="0">
-      <data key="d8">32720331</data>
-      <data key="d9">primary</data>
-      <data key="d11">İnşaatçılar prospekti</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">140.70480344183096</data>
-      <data key="d15">LINESTRING (49.8216438 40.3806137, 49.8211532 40.3796036, 49.8210604 40.379429)</data>
-    </edge>
     <edge source="2929197018" target="1296844052" id="0">
       <data key="d8">167156989</data>
       <data key="d9">residential</data>
@@ -155785,6 +155767,15 @@
       <data key="d13">False</data>
       <data key="d14">76.60280609671398</data>
       <data key="d15">LINESTRING (49.8216438 40.3806137, 49.8215499 40.3806063, 49.8207442 40.3805431)</data>
+    </edge>
+    <edge source="2929197018" target="2929197017" id="0">
+      <data key="d8">1568340390</data>
+      <data key="d9">primary</data>
+      <data key="d11">İnşaatçılar prospekti</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">140.70480344183096</data>
+      <data key="d15">LINESTRING (49.8216438 40.3806137, 49.8211532 40.3796036, 49.8210604 40.379429)</data>
     </edge>
     <edge source="2933886798" target="2935020038" id="0">
       <data key="d8">856384026</data>
@@ -155894,8 +155885,8 @@
       <data key="d11">Abbas Mirzə Şərifzadə küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">739.3790257793909</data>
-      <data key="d15">LINESTRING (49.8034097 40.3863828, 49.8031986 40.3877106, 49.8029863 40.3891025, 49.8029665 40.3892324, 49.8026584 40.3912699, 49.8026109 40.3915707, 49.8023872 40.3929864)</data>
+      <data key="d14">739.379026177994</data>
+      <data key="d15">LINESTRING (49.8034097 40.3863828, 49.8032078 40.3876529, 49.8031986 40.3877106, 49.8029863 40.3891025, 49.8029665 40.3892324, 49.8026584 40.3912699, 49.8026109 40.3915707, 49.8023872 40.3929864)</data>
     </edge>
     <edge source="2934107648" target="1780398781" id="0">
       <data key="d8">289875477</data>
@@ -161975,7 +161966,7 @@
     <edge source="3119071817" target="1754181251" id="0">
       <data key="d8">[1061880081, 163958620]</data>
       <data key="d9">tertiary</data>
-      <data key="d11">['İslam Abışov küç.', 'Böyükşor']</data>
+      <data key="d11">['Böyükşor', 'İslam Abışov küç.']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">875.7538293276317</data>
@@ -162876,15 +162867,6 @@
       <data key="d14">277.4063997366179</data>
       <data key="d15">LINESTRING (49.7957647 40.3913642, 49.7957197 40.3924447, 49.7957044 40.3927621, 49.7956562 40.3938576)</data>
     </edge>
-    <edge source="3124458988" target="1296844009" id="0">
-      <data key="d8">1549814219</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Əsəd Əhmədov küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">68.29865130065134</data>
-    </edge>
     <edge source="3124458988" target="3124458954" id="0">
       <data key="d8">307331131</data>
       <data key="d9">living_street</data>
@@ -162903,6 +162885,16 @@
       <data key="d13">True</data>
       <data key="d14">141.68088851852957</data>
       <data key="d15">LINESTRING (49.7956562 40.3938576, 49.7949181 40.393795, 49.7942789 40.3937421, 49.794118 40.3937137, 49.7940052 40.3936779)</data>
+    </edge>
+    <edge source="3124458988" target="1296844009" id="0">
+      <data key="d8">1549814219</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Əsəd Əhmədov küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">68.29865147406335</data>
+      <data key="d15">LINESTRING (49.7956562 40.3938576, 49.7958367 40.3938746, 49.7964566 40.3939329)</data>
     </edge>
     <edge source="3124481911" target="1655882570" id="0">
       <data key="d8">152813037</data>
@@ -165931,24 +165923,24 @@
       <data key="d14">268.27603226732106</data>
       <data key="d15">LINESTRING (49.9281665 40.3663221, 49.9280627 40.3663663, 49.928048 40.3663684, 49.9280359 40.3663647, 49.9280015 40.3663486, 49.9279783 40.3663416, 49.9279488 40.3663425, 49.9278584 40.3663762, 49.9278326 40.3663774, 49.9278125 40.3663702, 49.9277091 40.366311, 49.9276682 40.3663045, 49.9276317 40.366311, 49.9272543 40.3664666, 49.9269477 40.366605, 49.926448 40.366838, 49.9262087 40.3670999, 49.9261928 40.3671526, 49.9262243 40.3672083, 49.9264957 40.367429, 49.9266232 40.3675747)</data>
     </edge>
+    <edge source="3212063216" target="1757071185" id="0">
+      <data key="d8">[164046408, 1570328267, 1570328268, 1570328269, 1570328270, 1570328271, 356876634]</data>
+      <data key="d9">residential</data>
+      <data key="d11">['Kamil Balakişiyev küçəsi', 'Kamil Balakişiyev']</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">491.03295929008857</data>
+      <data key="d10">50</data>
+      <data key="d15">LINESTRING (49.9205112 40.4161543, 49.9209134 40.4163816, 49.9210609 40.4164786, 49.9212272 40.416643, 49.9212471 40.4166885, 49.9212588 40.41673, 49.9213015 40.4168808, 49.9213692 40.4171011, 49.9216179 40.4179107, 49.921637 40.4179397, 49.9216664 40.417971, 49.9217201 40.4179979, 49.9217873 40.4180077, 49.9218767 40.4179988, 49.9223435 40.4178984, 49.9227534 40.4178155, 49.9231513 40.4177347, 49.9236771 40.4176279, 49.9245826 40.4174356)</data>
+    </edge>
     <edge source="3212063216" target="13791767176" id="0">
-      <data key="d8">[164670753, 95163997, 164670750]</data>
+      <data key="d8">[164670753, 1570328259, 164670750]</data>
       <data key="d9">secondary</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">638.5385064635973</data>
       <data key="d16">yes</data>
       <data key="d15">LINESTRING (49.9205112 40.4161543, 49.9200161 40.4167864, 49.9183261 40.4189106, 49.9176581 40.4197427, 49.9174299 40.4200208, 49.9173729 40.4200992, 49.9173246 40.420178, 49.9172817 40.4202748, 49.917247 40.4203806, 49.9172361 40.4204801, 49.9172325 40.4205852, 49.917244 40.4206772, 49.917275 40.4207546, 49.9173126 40.4208139, 49.9173823 40.4208823, 49.9174829 40.4209599, 49.9175955 40.4210221, 49.9176934 40.421066)</data>
-    </edge>
-    <edge source="3212063216" target="1757071185" id="0">
-      <data key="d8">[164046408, 356876634]</data>
-      <data key="d9">residential</data>
-      <data key="d11">['Kamil Balakişiyev', 'Kamil Balakişiyev küçəsi']</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">491.03295929008857</data>
-      <data key="d10">50</data>
-      <data key="d15">LINESTRING (49.9205112 40.4161543, 49.9209134 40.4163816, 49.9210609 40.4164786, 49.9212272 40.416643, 49.9212471 40.4166885, 49.9212588 40.41673, 49.9213015 40.4168808, 49.9213692 40.4171011, 49.9216179 40.4179107, 49.921637 40.4179397, 49.9216664 40.417971, 49.9217201 40.4179979, 49.9217873 40.4180077, 49.9218767 40.4179988, 49.9223435 40.4178984, 49.9227534 40.4178155, 49.9231513 40.4177347, 49.9236771 40.4176279, 49.9245826 40.4174356)</data>
     </edge>
     <edge source="3213908692" target="2022950720" id="0">
       <data key="d8">354476882</data>
@@ -166712,6 +166704,7 @@
     <edge source="3226267111" target="1494327482" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -166721,6 +166714,7 @@
     <edge source="3226267111" target="1494327484" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -191918,9 +191912,9 @@
     </edge>
     <edge source="3595594490" target="10090339461" id="0">
       <data key="d8">[791246005, 354223063]</data>
-      <data key="d9">['residential', 'living_street']</data>
-      <data key="d10">['60', '40']</data>
-      <data key="d11">['Mikayıl Müşfiq küç.', 'Şamil Kamilov']</data>
+      <data key="d9">['living_street', 'residential']</data>
+      <data key="d10">['40', '60']</data>
+      <data key="d11">['Şamil Kamilov', 'Mikayıl Müşfiq küç.']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">838.1876421327938</data>
@@ -192272,7 +192266,7 @@
       <data key="d8">[353756229, 129737334]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
-      <data key="d11">['Ruhulla Axundov küç.', 'Mahir Əmirov küç.']</data>
+      <data key="d11">['Mahir Əmirov küç.', 'Ruhulla Axundov küç.']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">316.5808258303618</data>
@@ -192295,7 +192289,7 @@
       <data key="d14">113.04083245047167</data>
     </edge>
     <edge source="3596883237" target="1430720897" id="0">
-      <data key="d8">1100686130</data>
+      <data key="d8">1568337907</data>
       <data key="d9">tertiary</data>
       <data key="d11">Sakit Qocayev küçəsi</data>
       <data key="d12">False</data>
@@ -197039,7 +197033,7 @@
       <data key="d8">[191709790, 1102975439]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
-      <data key="d11">['Vüqar Quliyev küç.', 'Fərman Kərimzadə küç.']</data>
+      <data key="d11">['Fərman Kərimzadə küç.', 'Vüqar Quliyev küç.']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">140.190916526386</data>
@@ -199514,23 +199508,23 @@
       <data key="d13">True</data>
       <data key="d14">84.8809502157238</data>
     </edge>
-    <edge source="3621209892" target="3621209897" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">166.60636436319</data>
-      <data key="d15">LINESTRING (49.943177 40.4266002, 49.9444603 40.4267771, 49.9451138 40.4268671)</data>
-    </edge>
     <edge source="3621209892" target="1850355756" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">[1565368234, 1565368235]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">227.2010618648711</data>
       <data key="d15">LINESTRING (49.943177 40.4266002, 49.943091 40.4265876, 49.9418351 40.4264161, 49.9407885 40.4262647, 49.9407206 40.4262507, 49.9406706 40.4262351, 49.9406281 40.4262128, 49.9405982 40.4261881, 49.940585 40.4261633)</data>
+    </edge>
+    <edge source="3621209892" target="3621209897" id="0">
+      <data key="d8">[1565368236, 1565368237]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">166.60636436319</data>
+      <data key="d15">LINESTRING (49.943177 40.4266002, 49.9444603 40.4267771, 49.9451138 40.4268671)</data>
     </edge>
     <edge source="3621209896" target="3574519694" id="0">
       <data key="d8">[356707870, 356707879]</data>
@@ -199551,23 +199545,23 @@
       <data key="d14">71.36205598874439</data>
       <data key="d15">LINESTRING (49.9451138 40.4268671, 49.9450085 40.427319, 49.9450184 40.427353, 49.9450621 40.427372, 49.9452037 40.4273923)</data>
     </edge>
-    <edge source="3621209897" target="1885271253" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">False</data>
-      <data key="d14">314.3339055540564</data>
-      <data key="d15">LINESTRING (49.9451138 40.4268671, 49.9472232 40.4271561, 49.9482264 40.4272951, 49.948253 40.4272988, 49.9484106 40.4273294, 49.9485318 40.4273723, 49.9487184 40.427471)</data>
-    </edge>
     <edge source="3621209897" target="3621209892" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">[1565368236, 1565368237]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">166.60636436319</data>
       <data key="d15">LINESTRING (49.9451138 40.4268671, 49.9444603 40.4267771, 49.943177 40.4266002)</data>
+    </edge>
+    <edge source="3621209897" target="1885271253" id="0">
+      <data key="d8">[1565368240, 1565368238, 1565368239]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">False</data>
+      <data key="d14">314.3339055540564</data>
+      <data key="d15">LINESTRING (49.9451138 40.4268671, 49.9472232 40.4271561, 49.9482264 40.4272951, 49.948253 40.4272988, 49.9484106 40.4273294, 49.9485318 40.4273723, 49.9487184 40.427471)</data>
     </edge>
     <edge source="3621209913" target="3621209897" id="0">
       <data key="d8">356707881</data>
@@ -200191,13 +200185,13 @@
       <data key="d15">LINESTRING (49.8005917 40.4099644, 49.8007978 40.4100133, 49.8009127 40.4100208, 49.8010194 40.4099924, 49.8011245 40.4099429)</data>
     </edge>
     <edge source="3626554873" target="1311735266" id="0">
-      <data key="d8">[1549536800, 1549536801, 1549536799]</data>
+      <data key="d8">[1549536800, 1549536801, 1567252824, 1549536799]</data>
       <data key="d9">secondary</data>
       <data key="d11">Moskva prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">428.72477329441193</data>
-      <data key="d15">LINESTRING (49.8040896 40.4095986, 49.8045249 40.4088874, 49.8047322 40.4085358, 49.8054558 40.4073093, 49.8059955 40.4064389, 49.8062193 40.406101)</data>
+      <data key="d14">428.7247737111857</data>
+      <data key="d15">LINESTRING (49.8040896 40.4095986, 49.8045249 40.4088874, 49.8047322 40.4085358, 49.8054558 40.4073093, 49.8056993 40.4069165, 49.8059955 40.4064389, 49.8062193 40.406101)</data>
     </edge>
     <edge source="3626554881" target="886274458" id="0">
       <data key="d8">164843347</data>
@@ -202026,7 +202020,7 @@
       <data key="d8">[359022625, 359022626]</data>
       <data key="d9">living_street</data>
       <data key="d10">40</data>
-      <data key="d11">['57-ci küçə', '43-cü küçə']</data>
+      <data key="d11">['43-cü küçə', '57-ci küçə']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">121.82460720140318</data>
@@ -202054,7 +202048,7 @@
       <data key="d8">[359022625, 359022626]</data>
       <data key="d9">living_street</data>
       <data key="d10">40</data>
-      <data key="d11">['57-ci küçə', '43-cü küçə']</data>
+      <data key="d11">['43-cü küçə', '57-ci küçə']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">121.82460720140315</data>
@@ -202128,6 +202122,7 @@
     <edge source="3636135165" target="2558759808" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -202138,6 +202133,7 @@
     <edge source="3636135165" target="1494327482" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -212013,7 +212009,7 @@
     <edge source="3670332510" target="1834936247" id="0">
       <data key="d8">[171687082, 171687077]</data>
       <data key="d9">tertiary</data>
-      <data key="d11">['Kazımağa Kərimov küçəsi', 'Şahin Səmədov küçəsi']</data>
+      <data key="d11">['Şahin Səmədov küçəsi', 'Kazımağa Kərimov küçəsi']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">416.7016621356966</data>
@@ -215836,7 +215832,7 @@
     </edge>
     <edge source="3677668000" target="1933521328" id="0">
       <data key="d8">[363600072, 182987153]</data>
-      <data key="d9">['residential', 'living_street']</data>
+      <data key="d9">['living_street', 'residential']</data>
       <data key="d10">40</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
@@ -220912,8 +220908,8 @@
     <edge source="3708849129" target="10027840287" id="0">
       <data key="d8">[1094965065, 249020874, 249020875]</data>
       <data key="d9">trunk</data>
-      <data key="d17">['4', '3']</data>
-      <data key="d11">['Mikayıl Useynov pr', 'Dənizkənarı küçəsi']</data>
+      <data key="d17">['3', '4']</data>
+      <data key="d11">['Dənizkənarı küçəsi', 'Mikayıl Useynov pr']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">672.6652855841108</data>
@@ -224155,8 +224151,8 @@
       <data key="d11">Ceyhun Səlimov küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">515.4208741424301</data>
-      <data key="d15">LINESTRING (49.8193321 40.4027835, 49.8192766 40.4028136, 49.8192074 40.4028512, 49.8184905 40.4032393, 49.81823 40.4033819, 49.8181567 40.403422, 49.8180966 40.4034549, 49.8174484 40.4038098, 49.8165997 40.4042866, 49.815829 40.4047017, 49.8153682 40.4049595, 49.8153389 40.4049759, 49.8144023 40.4055023)</data>
+      <data key="d14">515.4208744824118</data>
+      <data key="d15">LINESTRING (49.8193321 40.4027835, 49.8192766 40.4028136, 49.8192074 40.4028512, 49.8184905 40.4032393, 49.81823 40.4033819, 49.8181567 40.403422, 49.8180966 40.4034549, 49.8174484 40.4038098, 49.8165997 40.4042866, 49.815829 40.4047017, 49.8153682 40.4049595, 49.8153389 40.4049759, 49.814501 40.4054468, 49.8144023 40.4055023)</data>
     </edge>
     <edge source="3727150277" target="1690032902" id="0">
       <data key="d8">[1548188916, 1548188917]</data>
@@ -224813,6 +224809,7 @@
     <edge source="3742667129" target="3742667131" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -224822,6 +224819,7 @@
     <edge source="3742667129" target="3742685570" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -224841,6 +224839,7 @@
     <edge source="3742667131" target="3742667129" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -224850,6 +224849,7 @@
     <edge source="3742667131" target="3742667151" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -224869,6 +224869,7 @@
     <edge source="3742667151" target="1494327490" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -224886,6 +224887,7 @@
     <edge source="3742667151" target="3742667131" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -226148,6 +226150,7 @@
     <edge source="3742685570" target="1494327484" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -226165,6 +226168,7 @@
     <edge source="3742685570" target="3742667129" id="0">
       <data key="d8">136192111</data>
       <data key="d9">tertiary</data>
+      <data key="d17">1</data>
       <data key="d10">40</data>
       <data key="d11">Gülbala Əliyev küç.</data>
       <data key="d12">False</data>
@@ -230601,7 +230605,7 @@
     <edge source="3793541279" target="9760440118" id="0">
       <data key="d8">[733367384, 1062435230]</data>
       <data key="d9">living_street</data>
-      <data key="d10">['20', '40']</data>
+      <data key="d10">['40', '20']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">276.6956456528953</data>
@@ -233075,7 +233079,7 @@
     <edge source="3828317626" target="276371600" id="0">
       <data key="d8">[25402392, 1307550121, 1415075093, 25359879]</data>
       <data key="d9">trunk</data>
-      <data key="d11">['Zərifə Əliyeva küçəsi', 'Azadlıq prospekti']</data>
+      <data key="d11">['Azadlıq prospekti', 'Zərifə Əliyeva küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">336.48223209274124</data>
@@ -233636,7 +233640,7 @@
     <edge source="3828673360" target="9755672959" id="0">
       <data key="d8">[379556738, 379556744, 379556745, 379556747, 306880734]</data>
       <data key="d9">primary</data>
-      <data key="d10">['60', '70']</data>
+      <data key="d10">['70', '60']</data>
       <data key="d11">Ziya Bünyadov prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -235328,7 +235332,7 @@
       <data key="d8">[966427936, 384716079]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
-      <data key="d11">['6-cı Park küçəsi', '2-ci Şərq küçəsi']</data>
+      <data key="d11">['2-ci Şərq küçəsi', '6-cı Park küçəsi']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">195.3322326891116</data>
@@ -235463,7 +235467,7 @@
       <data key="d8">[966427936, 384716079]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
-      <data key="d11">['6-cı Park küçəsi', '2-ci Şərq küçəsi']</data>
+      <data key="d11">['2-ci Şərq küçəsi', '6-cı Park küçəsi']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">195.3322326891116</data>
@@ -237168,7 +237172,8 @@
       <data key="d11">Xətai prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">18.754921184811916</data>
+      <data key="d14">18.754921940910066</data>
+      <data key="d15">LINESTRING (49.8624422 40.3917389, 49.8623376 40.3916503, 49.8622941 40.3916135)</data>
     </edge>
     <edge source="4021864111" target="366838007" id="0">
       <data key="d8">1564993440</data>
@@ -237497,7 +237502,7 @@
       <data key="d8">[794466810, 1550508414]</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
-      <data key="d11">['Mirzə Qədim İrəvani küçəsi', 'Koroğlu Rəhimov küçəsi']</data>
+      <data key="d11">['Koroğlu Rəhimov küçəsi', 'Mirzə Qədim İrəvani küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">43.73292677038239</data>
@@ -239785,14 +239790,14 @@
       <data key="d14">93.34997592086239</data>
     </edge>
     <edge source="4843059048" target="1756192309" id="0">
-      <data key="d8">[167191424, 1415580842, 492353387, 492256911]</data>
+      <data key="d8">[167191424, 1415580842, 492353387, 1567943757, 492256911]</data>
       <data key="d9">primary</data>
       <data key="d11">Hüseyn Cavid prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">205.32377462042035</data>
+      <data key="d14">205.32377476308363</data>
       <data key="d17">2</data>
-      <data key="d15">LINESTRING (49.8157567 40.3754981, 49.8157715 40.3753945, 49.8158441 40.3748855, 49.8159617 40.374123, 49.816043 40.3736646)</data>
+      <data key="d15">LINESTRING (49.8157567 40.3754981, 49.8157715 40.3753945, 49.8158441 40.3748855, 49.8158927 40.3745702, 49.8159617 40.374123, 49.816043 40.3736646)</data>
     </edge>
     <edge source="4843059048" target="1156367959" id="0">
       <data key="d8">[492362320, 1415580843, 1562777492]</data>
@@ -240698,8 +240703,8 @@
       <data key="d11">Qara Qarayev prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">421.43438472278035</data>
-      <data key="d15">LINESTRING (49.9377202 40.4168004, 49.9380937 40.4167185, 49.9382772 40.4166782, 49.9383569 40.4166538, 49.9384028 40.4166256, 49.9384374 40.4165857, 49.9404104 40.4139536, 49.9404388 40.4139157, 49.9405145 40.4138146)</data>
+      <data key="d14">420.8563420387888</data>
+      <data key="d15">LINESTRING (49.9377202 40.4168004, 49.9380937 40.4167185, 49.9382772 40.4166782, 49.9383569 40.4166538, 49.9384028 40.4166256, 49.9384374 40.4165857, 49.9403758 40.4140196, 49.9404149 40.4139706, 49.9405288 40.4138269)</data>
     </edge>
     <edge source="4862632466" target="1421797643" id="0">
       <data key="d8">129737748</data>
@@ -240707,8 +240712,8 @@
       <data key="d10">50</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">383.5992438449719</data>
-      <data key="d15">LINESTRING (49.9379358 40.4166353, 49.9380575 40.4166128, 49.9381736 40.416565, 49.9382651 40.4164855, 49.9383041 40.4164313, 49.938596 40.4160256, 49.9389337 40.4155349, 49.9392787 40.4150608, 49.9400276 40.4140358, 49.9402516 40.4137245)</data>
+      <data key="d14">383.5992438495612</data>
+      <data key="d15">LINESTRING (49.9379358 40.4166353, 49.9380575 40.4166128, 49.9381736 40.416565, 49.9382651 40.4164855, 49.9383041 40.4164313, 49.938596 40.4160256, 49.9389337 40.4155349, 49.9392787 40.4150608, 49.9400276 40.4140358, 49.9401138 40.413916, 49.9402516 40.4137245)</data>
     </edge>
     <edge source="4862632467" target="1509704854" id="0">
       <data key="d8">1548460658</data>
@@ -240757,7 +240762,7 @@
       <data key="d14">14.446076886708415</data>
     </edge>
     <edge source="4862632469" target="3630836926" id="0">
-      <data key="d8">1537960127</data>
+      <data key="d8">[1572004443, 1537960127]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
       <data key="d12">True</data>
@@ -240853,7 +240858,7 @@
     <edge source="4880876055" target="4880876065" id="0">
       <data key="d8">[493096858, 781131846, 781131847]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d10">60</data>
       <data key="d11">Füzuli küçəsi</data>
       <data key="d12">True</data>
@@ -241201,7 +241206,7 @@
     <edge source="4896831103" target="4896831102" id="0">
       <data key="d8">[1279889241, 498218634, 1415355650]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d11">Abbasqulu ağa Bakıxanov prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -241548,7 +241553,7 @@
       <data key="d15">LINESTRING (49.8248663 40.3771579, 49.8246952 40.3780443, 49.824653 40.378259, 49.8246289 40.3784367, 49.8245881 40.3788203)</data>
     </edge>
     <edge source="4935866948" target="1310960166" id="0">
-      <data key="d8">493999303</data>
+      <data key="d8">1567948910</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
       <data key="d11">Abdulla Şaiq küçəsi</data>
@@ -241897,16 +241902,6 @@
       <data key="d14">28.444445965116596</data>
       <data key="d15">LINESTRING (49.8660395 40.4168104, 49.8658785 40.4168676, 49.8657954 40.4168778, 49.865723 40.4168656)</data>
     </edge>
-    <edge source="5046859737" target="9807257991" id="0">
-      <data key="d8">493999303</data>
-      <data key="d9">primary</data>
-      <data key="d10">60</data>
-      <data key="d11">Abdulla Şaiq küçəsi</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">30.11472624326624</data>
-      <data key="d15">LINESTRING (49.8234155 40.3832223, 49.8233867 40.3833548, 49.8233575 40.3834895)</data>
-    </edge>
     <edge source="5046859737" target="1772368820" id="0">
       <data key="d8">700512593</data>
       <data key="d9">primary_link</data>
@@ -241914,6 +241909,16 @@
       <data key="d13">False</data>
       <data key="d14">66.75001235261396</data>
       <data key="d15">LINESTRING (49.8234155 40.3832223, 49.8233575 40.3833322, 49.8233239 40.3833751, 49.8232738 40.3834069, 49.8232323 40.3834224, 49.8231892 40.3834276, 49.8231479 40.3834246, 49.8231054 40.3834137, 49.8230518 40.3833857, 49.822994 40.3833312, 49.8229124 40.3832188)</data>
+    </edge>
+    <edge source="5046859737" target="9807257991" id="0">
+      <data key="d8">[1567948914, 1567948915]</data>
+      <data key="d9">primary</data>
+      <data key="d10">60</data>
+      <data key="d11">Abdulla Şaiq küçəsi</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">30.11472624326624</data>
+      <data key="d15">LINESTRING (49.8234155 40.3832223, 49.8233867 40.3833548, 49.8233575 40.3834895)</data>
     </edge>
     <edge source="5046859881" target="3803100860" id="0">
       <data key="d8">376932365</data>
@@ -244656,7 +244661,7 @@
     <edge source="6815902842" target="1787299890" id="0">
       <data key="d8">[1042552108, 750457253]</data>
       <data key="d9">secondary</data>
-      <data key="d11">['Ceyhun Səlimov küçəsi', 'Cəlil Məmmədquluzadə küçəsi']</data>
+      <data key="d11">['Cəlil Məmmədquluzadə küçəsi', 'Ceyhun Səlimov küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">82.50154815115077</data>
@@ -245048,9 +245053,9 @@
     <edge source="7065813272" target="276879585" id="0">
       <data key="d8">[176821573, 173754725, 531563047]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Kiçik Qala küçəsi', 'Asəf Zeynallı küçəsi', 'Qəsr döngə 1']</data>
+      <data key="d11">['Qəsr döngə 1', 'Asəf Zeynallı küçəsi', 'Kiçik Qala küçəsi']</data>
       <data key="d12">True</data>
-      <data key="d18">['6', '5']</data>
+      <data key="d18">['5', '6']</data>
       <data key="d13">False</data>
       <data key="d14">1001.6644819201192</data>
       <data key="d10">40</data>
@@ -249148,7 +249153,7 @@
       <data key="d8">[451079645, 1550508415]</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
-      <data key="d11">['Mirzə Qədim İrəvani küçəsi', 'Koroğlu Rəhimov küçəsi']</data>
+      <data key="d11">['Koroğlu Rəhimov küçəsi', 'Mirzə Qədim İrəvani küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">46.51917198420142</data>
@@ -250751,7 +250756,7 @@
       <data key="d8">[191709790, 1102975439]</data>
       <data key="d9">residential</data>
       <data key="d10">60</data>
-      <data key="d11">['Vüqar Quliyev küç.', 'Fərman Kərimzadə küç.']</data>
+      <data key="d11">['Fərman Kərimzadə küç.', 'Vüqar Quliyev küç.']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">140.190916526386</data>
@@ -251001,23 +251006,13 @@
       <data key="d15">LINESTRING (49.8565667 40.4131912, 49.8565066 40.4133119, 49.856282 40.4136634)</data>
     </edge>
     <edge source="8954058244" target="1430724889" id="0">
-      <data key="d8">129737750</data>
+      <data key="d8">1571998067</data>
       <data key="d9">tertiary</data>
       <data key="d10">60</data>
       <data key="d11">Şirin Mirzəyev küçəsi</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">23.792895060837644</data>
-    </edge>
-    <edge source="8954058244" target="1757071359" id="0">
-      <data key="d8">129737750</data>
-      <data key="d9">tertiary</data>
-      <data key="d10">60</data>
-      <data key="d11">Şirin Mirzəyev küçəsi</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">152.59071628020385</data>
-      <data key="d15">LINESTRING (49.9372019 40.4172439, 49.937687 40.4184853, 49.9377159 40.4185592)</data>
     </edge>
     <edge source="8954058244" target="1981121783" id="0">
       <data key="d8">187410196</data>
@@ -251028,6 +251023,16 @@
       <data key="d13">False</data>
       <data key="d14">136.76101739868957</data>
       <data key="d15">LINESTRING (49.9372019 40.4172439, 49.9381681 40.4170376, 49.9383515 40.4169984, 49.9384175 40.4169942, 49.938477 40.4170037, 49.9387349 40.4171119)</data>
+    </edge>
+    <edge source="8954058244" target="1757071359" id="0">
+      <data key="d8">[1571998065, 1571998066]</data>
+      <data key="d9">tertiary</data>
+      <data key="d10">60</data>
+      <data key="d11">Şirin Mirzəyev küçəsi</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">152.59071628020385</data>
+      <data key="d15">LINESTRING (49.9372019 40.4172439, 49.937687 40.4184853, 49.9377159 40.4185592)</data>
     </edge>
     <edge source="8956137602" target="6273937507" id="0">
       <data key="d8">1416317843</data>
@@ -253792,7 +253797,7 @@
       <data key="d8">[1307589185, 899600559]</data>
       <data key="d9">secondary</data>
       <data key="d17">2</data>
-      <data key="d11">['Əlövsət Əbdürəhimov küçəsi', 'Koroğlu Rəhimov küçəsi']</data>
+      <data key="d11">['Koroğlu Rəhimov küçəsi', 'Əlövsət Əbdürəhimov küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">239.0660566336901</data>
@@ -253866,7 +253871,7 @@
       <data key="d8">[1307589184, 167178924]</data>
       <data key="d9">secondary</data>
       <data key="d17">2</data>
-      <data key="d11">['Əlövsət Əbdürəhimov küçəsi', 'Koroğlu Rəhimov küçəsi']</data>
+      <data key="d11">['Koroğlu Rəhimov küçəsi', 'Əlövsət Əbdürəhimov küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">250.55023219429535</data>
@@ -253882,7 +253887,7 @@
     </edge>
     <edge source="9712082810" target="4479481392" id="0">
       <data key="d8">[1548464240, 1556820736, 1548464239]</data>
-      <data key="d9">['primary', 'unclassified']</data>
+      <data key="d9">['unclassified', 'primary']</data>
       <data key="d17">1</data>
       <data key="d10">60</data>
       <data key="d11">Koroğlu Rəhimov küçəsi</data>
@@ -255971,7 +255976,7 @@
     <edge source="9752912948" target="1826767101" id="0">
       <data key="d8">[379556736, 1556820737, 379556737, 379556739, 379556733]</data>
       <data key="d9">primary</data>
-      <data key="d10">['60', '70']</data>
+      <data key="d10">['70', '60']</data>
       <data key="d11">Ziya Bünyadov prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -256557,7 +256562,7 @@
     <edge source="9760608842" target="3828673360" id="0">
       <data key="d8">[626395633, 379556747]</data>
       <data key="d9">primary</data>
-      <data key="d10">['60', '70']</data>
+      <data key="d10">['70', '60']</data>
       <data key="d11">Ziya Bünyadov prospekti</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -258040,7 +258045,7 @@
     <edge source="9780143304" target="1720525825" id="0">
       <data key="d8">[159986934, 607813455]</data>
       <data key="d9">residential</data>
-      <data key="d10">['60', '20']</data>
+      <data key="d10">['20', '60']</data>
       <data key="d11">['İsmayıl Məmmədov', 'Bəhruz Nuriyev']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -258692,7 +258697,7 @@
       <data key="d14">17.525874363001527</data>
     </edge>
     <edge source="9797092084" target="9840559599" id="0">
-      <data key="d8">856382440</data>
+      <data key="d8">[1565782080, 1565782081, 1565782082, 1565782083, 1565782084, 1565782085, 1565782079]</data>
       <data key="d9">trunk</data>
       <data key="d10">60</data>
       <data key="d11">8 Noyabr prospekti</data>
@@ -258934,17 +258939,6 @@
       <data key="d14">12.91629163375074</data>
       <data key="d15">LINESTRING (49.9611344 40.3486235, 49.9611726 40.3485883, 49.9612296 40.3485328)</data>
     </edge>
-    <edge source="9807257991" target="3812570914" id="0">
-      <data key="d8">[1068323273, 493999303]</data>
-      <data key="d9">primary</data>
-      <data key="d10">60</data>
-      <data key="d11">['Abdulla Şaiq küçəsi', 'İnşaatçılar prospekti']</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">304.20043460137504</data>
-      <data key="d17">2</data>
-      <data key="d15">LINESTRING (49.8233575 40.3834895, 49.8233312 40.3836069, 49.8233219 40.3836997, 49.8233355 40.3837843, 49.8233759 40.3839169, 49.823436 40.3840403, 49.8234578 40.3840826, 49.8240847 40.3853703, 49.824422 40.3860768)</data>
-    </edge>
     <edge source="9807257991" target="1311583642" id="0">
       <data key="d8">[1068323272, 506298665, 1068323274, 116369728]</data>
       <data key="d9">residential</data>
@@ -258954,8 +258948,19 @@
       <data key="d14">173.65433659358288</data>
       <data key="d15">LINESTRING (49.8233575 40.3834895, 49.8233671 40.3836146, 49.8233792 40.3836771, 49.8233896 40.3837153, 49.823412 40.383739, 49.8234595 40.3837713, 49.8235103 40.3837888, 49.8236721 40.3838353, 49.8243937 40.3840429, 49.8245328 40.3840742, 49.825019 40.3841767)</data>
     </edge>
+    <edge source="9807257991" target="3812570914" id="0">
+      <data key="d8">[1068323273, 1567948916]</data>
+      <data key="d9">primary</data>
+      <data key="d10">60</data>
+      <data key="d11">['İnşaatçılar prospekti', 'Abdulla Şaiq küçəsi']</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">304.20043460137504</data>
+      <data key="d17">2</data>
+      <data key="d15">LINESTRING (49.8233575 40.3834895, 49.8233312 40.3836069, 49.8233219 40.3836997, 49.8233355 40.3837843, 49.8233759 40.3839169, 49.823436 40.3840403, 49.8234578 40.3840826, 49.8240847 40.3853703, 49.824422 40.3860768)</data>
+    </edge>
     <edge source="9807258008" target="2929197018" id="0">
-      <data key="d8">32720331</data>
+      <data key="d8">[1568340388, 1568340389]</data>
       <data key="d9">primary</data>
       <data key="d11">İnşaatçılar prospekti</data>
       <data key="d12">True</data>
@@ -259240,7 +259245,7 @@
       <data key="d15">LINESTRING (49.8268564 40.3581835, 49.826957 40.3582586, 49.8270428 40.3583291, 49.827134 40.3584129, 49.8272509 40.3585322)</data>
     </edge>
     <edge source="9826182264" target="9826182302" id="0">
-      <data key="d8">1070736925</data>
+      <data key="d8">1573423814</data>
       <data key="d9">secondary_link</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -259248,7 +259253,7 @@
       <data key="d15">LINESTRING (49.8269567 40.3583695, 49.8269613 40.3583909, 49.8269658 40.35844)</data>
     </edge>
     <edge source="9826182264" target="276882995" id="0">
-      <data key="d8">1551709865</data>
+      <data key="d8">1573423815</data>
       <data key="d9">primary</data>
       <data key="d10">60</data>
       <data key="d12">True</data>
@@ -259603,16 +259608,6 @@
       <data key="d14">156.46806904661926</data>
       <data key="d15">LINESTRING (49.9266011 40.3711542, 49.9266292 40.3711235, 49.9267258 40.3710295, 49.9268344 40.3709345, 49.9269873 40.3708139, 49.9271402 40.3707107, 49.927291 40.3706034, 49.9273682 40.3705498, 49.9274178 40.3705232, 49.9275841 40.3704492, 49.9277571 40.3703746, 49.9279341 40.3703112, 49.9280212 40.3702863)</data>
     </edge>
-    <edge source="9840559599" target="3210778869" id="0">
-      <data key="d8">[856382440, 460761483]</data>
-      <data key="d9">trunk</data>
-      <data key="d10">60</data>
-      <data key="d11">8 Noyabr prospekti</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">69.54950775441097</data>
-      <data key="d15">LINESTRING (49.9308189 40.370714, 49.9312146 40.3704634, 49.9313957 40.3703594, 49.9314593 40.3703229)</data>
-    </edge>
     <edge source="9840559599" target="9840559567" id="0">
       <data key="d8">1072540680</data>
       <data key="d9">residential</data>
@@ -259620,6 +259615,16 @@
       <data key="d13">False</data>
       <data key="d14">254.47369108488525</data>
       <data key="d15">LINESTRING (49.9308189 40.370714, 49.9307733 40.3706779, 49.930727 40.3706412, 49.9306257 40.3705753, 49.9303883 40.3704497, 49.9302623 40.3703996, 49.9300624 40.3703265, 49.9298512 40.3702668, 49.9296393 40.3702101, 49.9294958 40.3701866, 49.9294033 40.3701804, 49.9292685 40.3701774, 49.9291679 40.3701753, 49.9290285 40.3701728, 49.9288809 40.3701769, 49.9287575 40.3701825, 49.9285711 40.370205, 49.9284142 40.3702244, 49.92826 40.3702458, 49.9281017 40.3702678, 49.9280212 40.3702863)</data>
+    </edge>
+    <edge source="9840559599" target="3210778869" id="0">
+      <data key="d8">[460761483, 1565782086]</data>
+      <data key="d9">trunk</data>
+      <data key="d10">60</data>
+      <data key="d11">8 Noyabr prospekti</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">69.54950775441097</data>
+      <data key="d15">LINESTRING (49.9308189 40.370714, 49.9312146 40.3704634, 49.9313957 40.3703594, 49.9314593 40.3703229)</data>
     </edge>
     <edge source="9846987894" target="3587189440" id="0">
       <data key="d8">352927547</data>
@@ -260974,7 +260979,7 @@
       <data key="d14">10.9511433285177</data>
     </edge>
     <edge source="9891914362" target="1754678026" id="0">
-      <data key="d8">163789982</data>
+      <data key="d8">[1567948908, 1567948909]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Məhəmməd Hadi küçəsi</data>
       <data key="d12">True</data>
@@ -261006,7 +261011,7 @@
       <data key="d14">10.733025758336344</data>
     </edge>
     <edge source="9891914371" target="9891914362" id="0">
-      <data key="d8">163789982</data>
+      <data key="d8">[1567948904, 1567948905, 1567948906, 1567948907]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Məhəmməd Hadi küçəsi</data>
       <data key="d12">True</data>
@@ -264591,7 +264596,7 @@
       <data key="d15">LINESTRING (49.9293656 40.4137799, 49.9295443 40.413737, 49.9295905 40.4137266)</data>
     </edge>
     <edge source="9917769666" target="9917769687" id="0">
-      <data key="d8">128734478</data>
+      <data key="d8">1568337894</data>
       <data key="d9">tertiary</data>
       <data key="d11">Mehdi Abbasov küçəsi</data>
       <data key="d12">True</data>
@@ -264609,7 +264614,7 @@
       <data key="d15">LINESTRING (49.9293417 40.4138687, 49.9293356 40.413832, 49.9293423 40.4138085, 49.9293656 40.4137799)</data>
     </edge>
     <edge source="9917769681" target="9917769666" id="0">
-      <data key="d8">128734478</data>
+      <data key="d8">1568337893</data>
       <data key="d9">tertiary</data>
       <data key="d11">Mehdi Abbasov küçəsi</data>
       <data key="d12">True</data>
@@ -264634,15 +264639,6 @@
       <data key="d13">False</data>
       <data key="d14">8.609681013468148</data>
     </edge>
-    <edge source="9917769686" target="9917769697" id="0">
-      <data key="d8">128734478</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Mehdi Abbasov küçəsi</data>
-      <data key="d12">True</data>
-      <data key="d13">False</data>
-      <data key="d14">303.22741866217</data>
-      <data key="d15">LINESTRING (49.9271697 40.4143568, 49.9267148 40.4144438, 49.9249703 40.4147847, 49.9236964 40.4150224)</data>
-    </edge>
     <edge source="9917769686" target="1757071295" id="0">
       <data key="d8">499548372</data>
       <data key="d9">residential</data>
@@ -264652,8 +264648,17 @@
       <data key="d14">279.55560481314495</data>
       <data key="d15">LINESTRING (49.9271697 40.4143568, 49.9273111 40.414762, 49.9276647 40.4157573, 49.9277508 40.4159902, 49.9278414 40.4162351, 49.9280341 40.4167832)</data>
     </edge>
+    <edge source="9917769686" target="9917769697" id="0">
+      <data key="d8">[1568337896, 1568337897]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Mehdi Abbasov küçəsi</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">303.22741866217</data>
+      <data key="d15">LINESTRING (49.9271697 40.4143568, 49.9267148 40.4144438, 49.9249703 40.4147847, 49.9236964 40.4150224)</data>
+    </edge>
     <edge source="9917769687" target="9917769686" id="0">
-      <data key="d8">128734478</data>
+      <data key="d8">1568337895</data>
       <data key="d9">tertiary</data>
       <data key="d11">Mehdi Abbasov küçəsi</data>
       <data key="d12">True</data>
@@ -264668,7 +264673,7 @@
       <data key="d14">12.12309165089566</data>
     </edge>
     <edge source="9917769691" target="9917769681" id="0">
-      <data key="d8">128734478</data>
+      <data key="d8">[1568337891, 1568337892, 128734478]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Mehdi Abbasov küçəsi</data>
       <data key="d12">True</data>
@@ -266084,7 +266089,7 @@
       <data key="d15">LINESTRING (49.9529336 40.4299626, 49.9529725 40.4299082, 49.9530033 40.4298541, 49.9530355 40.4297673, 49.953061 40.4296714, 49.9530798 40.4295957, 49.9531176 40.4293846, 49.9531321 40.4293079, 49.9531489 40.4292121, 49.953241 40.428539, 49.9533343 40.427841)</data>
     </edge>
     <edge source="10059398589" target="1285921264" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">[1565368228, 1565368229, 1565368230]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
@@ -266093,7 +266098,7 @@
       <data key="d15">LINESTRING (49.9529336 40.4299626, 49.9531932 40.4301457, 49.9534456 40.4303268, 49.9536377 40.4304531, 49.9537838 40.4305623, 49.9540345 40.4307627, 49.9540776 40.430804, 49.9541188 40.4308462, 49.9541905 40.4309249)</data>
     </edge>
     <edge source="10059398589" target="1885271273" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">[1565368243, 1565368244]</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
@@ -266156,14 +266161,14 @@
       <data key="d14">13.472319388227822</data>
     </edge>
     <edge source="10062038708" target="1430720271" id="0">
-      <data key="d8">[628340200, 129737262]</data>
+      <data key="d8">129737262</data>
       <data key="d9">secondary</data>
       <data key="d10">60</data>
       <data key="d11">Sülh küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">153.7362065662048</data>
-      <data key="d15">LINESTRING (49.9586953 40.4168524, 49.9579154 40.4165185, 49.9575083 40.4163442, 49.9572217 40.4162215, 49.9572097 40.4162164, 49.9571111 40.4161766)</data>
+      <data key="d14">153.53219331524508</data>
+      <data key="d15">LINESTRING (49.9586953 40.4168524, 49.9579203 40.4164848, 49.9575535 40.4163292, 49.9572878 40.4162266, 49.9572305 40.4162035, 49.9571258 40.4161624)</data>
     </edge>
     <edge source="10062234217" target="2022951107" id="0">
       <data key="d8">1098918642</data>
@@ -267572,9 +267577,9 @@
     </edge>
     <edge source="10090339461" target="3595594490" id="0">
       <data key="d8">[791246005, 354223063]</data>
-      <data key="d9">['residential', 'living_street']</data>
-      <data key="d10">['60', '40']</data>
-      <data key="d11">['Mikayıl Müşfiq küç.', 'Şamil Kamilov']</data>
+      <data key="d9">['living_street', 'residential']</data>
+      <data key="d10">['40', '60']</data>
+      <data key="d11">['Şamil Kamilov', 'Mikayıl Müşfiq küç.']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">838.1876421327938</data>
@@ -268484,12 +268489,12 @@
       <data key="d15">LINESTRING (49.9476832 40.376134, 49.9477074 40.3761799, 49.9477315 40.376232, 49.9477663 40.3763413, 49.9478349 40.376587, 49.9479193 40.3769012, 49.9479366 40.3769911, 49.9479406 40.3770554)</data>
     </edge>
     <edge source="10608931796" target="1286205461" id="0">
-      <data key="d8">[1550375157, 1550375158, 1550375159, 1550375160, 1550375161]</data>
+      <data key="d8">[1569597895, 1550375157, 1550375158, 1550375159, 1550375160, 1550375161]</data>
       <data key="d9">secondary</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">224.7639572820431</data>
-      <data key="d15">LINESTRING (49.9444546 40.3733958, 49.9436112 40.3738867, 49.9432446 40.3740999, 49.9431281 40.3741675, 49.9430207 40.3742345, 49.9426909 40.3744241, 49.9425255 40.3745191, 49.9423458 40.3746224)</data>
+      <data key="d14">224.76395729168544</data>
+      <data key="d15">LINESTRING (49.9444546 40.3733958, 49.9440828 40.3736122, 49.9436112 40.3738867, 49.9432446 40.3740999, 49.9431281 40.3741675, 49.9430207 40.3742345, 49.9426909 40.3744241, 49.9425255 40.3745191, 49.9423458 40.3746224)</data>
     </edge>
     <edge source="10608931801" target="10608931807" id="0">
       <data key="d8">290947651</data>
@@ -268579,7 +268584,7 @@
     <edge source="10608933903" target="10608931796" id="0">
       <data key="d8">[741838674, 171691211]</data>
       <data key="d9">secondary</data>
-      <data key="d11">['Rahib Məmmədov küçəsi', 'Rahib Məmmədov küç.']</data>
+      <data key="d11">['Rahib Məmmədov küç.', 'Rahib Məmmədov küçəsi']</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
       <data key="d14">421.4146745451354</data>
@@ -269200,14 +269205,6 @@
       <data key="d13">True</data>
       <data key="d14">71.19536897540563</data>
     </edge>
-    <edge source="10827884795" target="1885271253" id="0">
-      <data key="d8">702177521</data>
-      <data key="d9">tertiary</data>
-      <data key="d11">Yavər Əliyev küç.</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">23.030199446212862</data>
-    </edge>
     <edge source="10827884795" target="10827884794" id="0">
       <data key="d8">1164257745</data>
       <data key="d9">living_street</data>
@@ -269215,8 +269212,16 @@
       <data key="d13">False</data>
       <data key="d14">71.19536897540563</data>
     </edge>
+    <edge source="10827884795" target="1885271253" id="0">
+      <data key="d8">1565368241</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">Yavər Əliyev küç.</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">23.030199446212862</data>
+    </edge>
     <edge source="10827884795" target="1885271273" id="0">
-      <data key="d8">702177521</data>
+      <data key="d8">1565368242</data>
       <data key="d9">tertiary</data>
       <data key="d11">Yavər Əliyev küç.</data>
       <data key="d12">False</data>
@@ -269865,7 +269870,7 @@
       <data key="d15">LINESTRING (49.9683374 40.3714845, 49.9677864 40.3714954, 49.967718 40.3715138, 49.9676925 40.3715506, 49.9676879 40.3716597, 49.9676833 40.3717671)</data>
     </edge>
     <edge source="10867298058" target="1303617257" id="0">
-      <data key="d8">115347359</data>
+      <data key="d8">1569533265</data>
       <data key="d9">secondary</data>
       <data key="d11">Əliağa Şıxlinski küç.</data>
       <data key="d12">False</data>
@@ -277606,7 +277611,7 @@
     <edge source="12999518871" target="2038913936" id="0">
       <data key="d8">[1127697816, 1414682547, 193388269]</data>
       <data key="d9">residential</data>
-      <data key="d11">['Mir Cəlal', '20 Yanvar']</data>
+      <data key="d11">['20 Yanvar', 'Mir Cəlal']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">416.3924993750492</data>
@@ -278109,14 +278114,6 @@
       <data key="d13">False</data>
       <data key="d14">9.710346619380854</data>
     </edge>
-    <edge source="13004314973" target="1525007280" id="0">
-      <data key="d8">135451505</data>
-      <data key="d9">residential</data>
-      <data key="d12">False</data>
-      <data key="d13">True</data>
-      <data key="d14">177.59118710592816</data>
-      <data key="d15">LINESTRING (49.8747176 40.393255, 49.8748136 40.3932589, 49.8752848 40.3933134, 49.8758237 40.3933965, 49.8766435 40.3935163, 49.8767768 40.3935481)</data>
-    </edge>
     <edge source="13004314973" target="1485521320" id="0">
       <data key="d8">306531044</data>
       <data key="d9">tertiary</data>
@@ -278125,6 +278122,14 @@
       <data key="d13">True</data>
       <data key="d14">130.46886092424472</data>
       <data key="d15">LINESTRING (49.8747176 40.393255, 49.8755103 40.3941935, 49.8755485 40.394243)</data>
+    </edge>
+    <edge source="13004314973" target="1525007280" id="0">
+      <data key="d8">1567236633</data>
+      <data key="d9">residential</data>
+      <data key="d12">False</data>
+      <data key="d13">True</data>
+      <data key="d14">177.59118710592816</data>
+      <data key="d15">LINESTRING (49.8747176 40.393255, 49.8748136 40.3932589, 49.8752848 40.3933134, 49.8758237 40.3933965, 49.8766435 40.3935163, 49.8767768 40.3935481)</data>
     </edge>
     <edge source="13004327081" target="1805965487" id="0">
       <data key="d8">1415169714</data>
@@ -280339,8 +280344,8 @@
       <data key="d11">Abbas Mirzə Şərifzadə küçəsi</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
-      <data key="d14">527.4717141410042</data>
-      <data key="d15">LINESTRING (49.802466 40.3915024, 49.8028383 40.3890903, 49.8030498 40.3877201, 49.8031911 40.386791)</data>
+      <data key="d14">527.4717151568537</data>
+      <data key="d15">LINESTRING (49.802466 40.3915024, 49.8028383 40.3890903, 49.8030498 40.3877201, 49.803062 40.3876402, 49.8031911 40.386791)</data>
     </edge>
     <edge source="13638592303" target="13638564795" id="0">
       <data key="d8">1487688210</data>
@@ -280568,6 +280573,24 @@
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">40.26940771154102</data>
+    </edge>
+    <edge source="13762192469" target="1421786231" id="0">
+      <data key="d8">1560789539</data>
+      <data key="d9">primary</data>
+      <data key="d17">3</data>
+      <data key="d10">60</data>
+      <data key="d11">Qara Qarayev prospekti</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">31.06526582758096</data>
+    </edge>
+    <edge source="13762192469" target="1421797629" id="0">
+      <data key="d8">187410201</data>
+      <data key="d9">primary_link</data>
+      <data key="d12">True</data>
+      <data key="d13">False</data>
+      <data key="d14">34.31705803197945</data>
+      <data key="d15">LINESTRING (49.9408936 40.4135508, 49.940892 40.4136219, 49.9408942 40.413646, 49.9409043 40.4136713, 49.9409215 40.4136914, 49.9409458 40.413709, 49.9409725 40.413721, 49.941004 40.4137305, 49.941119 40.4137219)</data>
     </edge>
     <edge source="13765447263" target="3692356841" id="0">
       <data key="d8">1504274047</data>
@@ -281854,7 +281877,7 @@
       <data key="d14">39.148178559119465</data>
       <data key="d15">LINESTRING (49.9582676 40.3951216, 49.9582862 40.3951682, 49.9582967 40.3952099, 49.95829 40.3952511, 49.9582755 40.3952932, 49.9582349 40.3953379, 49.9581853 40.3953591, 49.9580875 40.3953829)</data>
     </edge>
-    <data key="d0">2026-10-06 18:11:05</data>
+    <data key="d0">2026-11-01 15:39:43</data>
     <data key="d1">OSMnx 2.0.7</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>
